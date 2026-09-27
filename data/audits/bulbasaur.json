@@ -64,5 +64,13 @@
     }
   ],
   "venusaur_observed": false,
-  "notes": "Visual family inventory captured. Do not transfer until exception and appraisal checks identify living-Dex/evolution/PvP/PvE keepers."
+  "notes": "All 11 Bulbasaur are 0-2 star and none match shiny/costume/shadow/@special. Preserve living-Dex base plus evolution reserve; assess only a minimal PvP candidate set before bulk transfer.",
+  "exception_search": {
+    "query": "bulbasaur&shiny,costume,shadow,@special",
+    "count": 0
+  },
+  "high_appraisal_search": {
+    "query": "bulbasaur&3*,4*",
+    "count": 0
+  }
 }
