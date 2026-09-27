@@ -1,0 +1,68 @@
+{
+  "updated": "2026-09-26T23:37:00-04:00",
+  "family_total": 12,
+  "observed": [
+    {
+      "species": "Bulbasaur",
+      "cp": 870,
+      "tagged": true
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 733,
+      "tagged": true
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 689,
+      "tagged": true
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 637,
+      "tagged": true
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 593,
+      "tagged": true
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 519,
+      "tagged": true
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 454,
+      "tagged": true
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 367,
+      "tagged": false
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 268,
+      "tagged": true
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 40,
+      "tagged": false
+    },
+    {
+      "species": "Bulbasaur",
+      "cp": 13,
+      "tagged": false
+    },
+    {
+      "species": "Ivysaur",
+      "cp": 767,
+      "tagged": true
+    }
+  ],
+  "venusaur_observed": false,
+  "notes": "Visual family inventory captured. Do not transfer until exception and appraisal checks identify living-Dex/evolution/PvP/PvE keepers."
+}
