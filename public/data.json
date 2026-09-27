@@ -59,20 +59,20 @@
     }
   ],
   "storage": {
-    "used": 1283,
+    "used": 1278,
     "capacity": 1325,
-    "last_updated": "2026-09-26 23:53 ET"
+    "last_updated": "2026-09-27 00:20 ET"
   },
   "resources": {
     "stardust": 594642,
     "bulbasaur_candy": 86,
     "bulbasaur_candy_xl": 1,
-    "gastly_candy": 47,
+    "gastly_candy": 53,
     "gastly_candy_xl": 2,
     "gengar_mega_energy": 0
   },
   "cleanup": {
-    "total_transferred": 32,
+    "total_transferred": 38,
     "transfer_queue": 0,
     "families": [
       {
@@ -85,7 +85,7 @@
       },
       {
         "family": "Gastly",
-        "status": "In review — 9 Gastly, 2 Haunter, 0 Gengar"
+        "status": "Complete — 6 transferred, 5 kept; Gengar missing"
       }
     ]
   },
@@ -115,5 +115,9 @@
       "name": "Gastly Spotlight Hour",
       "bonus": "2× Evolution XP"
     }
-  ]
+  ],
+  "collection_status": {
+    "tracked_records": 7,
+    "note": "PMS currently contains verified detailed records only; family audits are preserved separately while full inventory import is built."
+  }
 }
