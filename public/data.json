@@ -57,5 +57,63 @@
       "appraisal_stars": 3,
       "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
     }
+  ],
+  "storage": {
+    "used": 1283,
+    "capacity": 1325,
+    "last_updated": "2026-09-26 23:53 ET"
+  },
+  "resources": {
+    "stardust": 594642,
+    "bulbasaur_candy": 86,
+    "bulbasaur_candy_xl": 1,
+    "gastly_candy": 47,
+    "gastly_candy_xl": 2,
+    "gengar_mega_energy": 0
+  },
+  "cleanup": {
+    "total_transferred": 32,
+    "transfer_queue": 0,
+    "families": [
+      {
+        "family": "Drifloon",
+        "status": "Complete — 23 transferred, 6 kept"
+      },
+      {
+        "family": "Bulbasaur",
+        "status": "Complete — 9 transferred, 3 kept"
+      },
+      {
+        "family": "Gastly",
+        "status": "In review — 9 Gastly, 2 Haunter, 0 Gengar"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "Oct 1, 6–7 PM",
+      "name": "Seedot Spotlight Hour",
+      "bonus": "2× Catch XP"
+    },
+    {
+      "date": "Oct 8, 6–7 PM",
+      "name": "Elgyem Spotlight Hour",
+      "bonus": "2× Catch Candy"
+    },
+    {
+      "date": "Oct 15, 6–7 PM",
+      "name": "Stufful Spotlight Hour",
+      "bonus": "2× Transfer Candy"
+    },
+    {
+      "date": "Oct 22, 6–7 PM",
+      "name": "Morelull Spotlight Hour",
+      "bonus": "2× Catch Stardust"
+    },
+    {
+      "date": "Oct 29, 6–7 PM",
+      "name": "Gastly Spotlight Hour",
+      "bonus": "2× Evolution XP"
+    }
   ]
 }
