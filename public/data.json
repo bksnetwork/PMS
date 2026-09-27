@@ -1,123 +1,630 @@
 {
-  "tracked": 7,
-  "species": 2,
-  "pokemon": [
-    {
-      "dex_no": 425,
-      "name": "Drifloon",
-      "cp": 667,
-      "gender": "M",
-      "appraisal_stars": 3,
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
-    },
-    {
-      "dex_no": 425,
-      "name": "Drifloon",
-      "cp": 559,
-      "gender": "F",
-      "appraisal_stars": 3,
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
-    },
-    {
-      "dex_no": 425,
-      "name": "Drifloon",
-      "cp": 191,
-      "gender": "M",
-      "appraisal_stars": 3,
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
-    },
-    {
-      "dex_no": 425,
-      "name": "Drifloon",
-      "cp": 596,
-      "gender": "F",
-      "appraisal_stars": 1,
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
-    },
-    {
-      "dex_no": 425,
-      "name": "Drifloon",
-      "cp": 445,
-      "gender": "M",
-      "appraisal_stars": 1,
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
-    },
-    {
-      "dex_no": 425,
-      "name": "Drifloon",
-      "cp": 192,
-      "gender": "M",
-      "appraisal_stars": 0,
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
-    },
-    {
-      "dex_no": 426,
-      "name": "Drifblim",
-      "cp": 1381,
-      "appraisal_stars": 3,
-      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
-    }
-  ],
+  "updated": "2026-09-27T01:42:00-04:00",
+  "trainer": {
+    "name": "BS4Free",
+    "code": "485010036135"
+  },
   "storage": {
-    "used": 1278,
+    "used": 1088,
     "capacity": 1325,
-    "last_updated": "2026-09-27 00:20 ET"
+    "last_updated": "2026-09-27 01:42 ET",
+    "free": 237,
+    "target_under": 1000
   },
   "resources": {
     "stardust": 594642,
-    "bulbasaur_candy": 86,
-    "bulbasaur_candy_xl": 1,
-    "gastly_candy": 53,
-    "gastly_candy_xl": 2,
-    "gengar_mega_energy": 0
+    "shroomish_candy": 164,
+    "shroomish_candy_xl": 3,
+    "taillow_candy": 233,
+    "taillow_candy_xl": 5,
+    "surskit_candy": 66,
+    "surskit_candy_xl": 1,
+    "wingull_candy": 46,
+    "wingull_candy_xl": 1,
+    "aron_candy": 80,
+    "aron_candy_xl": 1,
+    "meditite_candy": 63,
+    "meditite_candy_xl": 2,
+    "electrike_candy": 75,
+    "electrike_candy_xl": 2,
+    "plusle_candy": 47,
+    "plusle_candy_xl": 3,
+    "minun_candy": 47,
+    "minun_candy_xl": 1,
+    "gulpin_candy": 88,
+    "gulpin_candy_xl": 6,
+    "wailmer_candy": 101,
+    "wailmer_candy_xl": 1,
+    "numel_candy": 74,
+    "numel_candy_xl": 2,
+    "spoink_candy": 48,
+    "spoink_candy_xl": 3,
+    "trapinch_candy": 94,
+    "trapinch_candy_xl": 1
   },
   "cleanup": {
-    "total_transferred": 38,
-    "transfer_queue": 0,
+    "total_transferred": 228,
+    "confirmed_families": 17,
+    "remaining_event_families": [
+      "Swablu",
+      "Barboach",
+      "Corphish",
+      "Anorith",
+      "Feebas",
+      "Castform",
+      "Shuppet",
+      "Spheal",
+      "Cherubi",
+      "Darumaka",
+      "Phantump"
+    ],
+    "next_family": "Swablu",
+    "target_note": "Current target is below 1,000 Pokémon while preserving living-Dex stages, collection variants, research reserves, PvP/PvE value and planned evolutions.",
     "families": [
       {
         "family": "Drifloon",
-        "status": "Complete — 23 transferred, 6 kept"
+        "status": "Complete",
+        "transferred": 23,
+        "kept": 6,
+        "notes": "Drifblim CP1381 retained; Drifloon keepers include CP667/559/191 plus protected collection copies."
       },
       {
         "family": "Bulbasaur",
-        "status": "Complete — 9 transferred, 3 kept"
+        "status": "Complete",
+        "transferred": 9,
+        "kept": 3,
+        "notes": "Bulbasaur CP870 and CP40 plus Ivysaur CP767 retained."
       },
       {
         "family": "Gastly",
-        "status": "Complete — 6 transferred, 5 kept; Gengar missing"
+        "status": "Complete",
+        "transferred": 6,
+        "kept": 5,
+        "notes": "Gastly/Haunter retained; Gengar still missing."
+      },
+      {
+        "family": "Shroomish",
+        "status": "Complete",
+        "transferred": 27,
+        "kept": 2,
+        "notes": "Shroomish CP519 + Breloom CP1738."
+      },
+      {
+        "family": "Taillow",
+        "status": "Complete",
+        "transferred": 43,
+        "kept": 2,
+        "notes": "Taillow CP577 3★+ / 2019 keeper + Swellow CP1509."
+      },
+      {
+        "family": "Surskit",
+        "status": "Complete",
+        "transferred": 9,
+        "kept": 2,
+        "notes": "CP123 living keeper + CP556 reserved EVOLVE RUN for Masquerain."
+      },
+      {
+        "family": "Wingull",
+        "status": "Complete",
+        "transferred": 10,
+        "kept": 2,
+        "notes": "CP422 protected + CP425 living/evolution reserve; Pelipper missing."
+      },
+      {
+        "family": "Aron",
+        "status": "Complete",
+        "transferred": 10,
+        "kept": 4,
+        "notes": "Aron CP1089/880/830 3★+ + Lairon CP1143; Aggron missing."
+      },
+      {
+        "family": "Meditite",
+        "status": "Complete",
+        "transferred": 12,
+        "kept": 2,
+        "notes": "CP404 and CP398 protected; one can evolve to Medicham."
+      },
+      {
+        "family": "Electrike",
+        "status": "Complete",
+        "transferred": 8,
+        "kept": 4,
+        "notes": "Two CP536 protected + Manectric CP1325 and CP978."
+      },
+      {
+        "family": "Plusle",
+        "status": "Complete",
+        "transferred": 10,
+        "kept": 1,
+        "notes": "CP996 protected; no evolution."
+      },
+      {
+        "family": "Minun",
+        "status": "Complete",
+        "transferred": 10,
+        "kept": 1,
+        "notes": "CP1159 living keeper; no evolution."
+      },
+      {
+        "family": "Gulpin",
+        "status": "Complete",
+        "transferred": 14,
+        "kept": 2,
+        "notes": "Gulpin CP487 + Swalot CP1433."
+      },
+      {
+        "family": "Wailmer",
+        "status": "Complete",
+        "transferred": 10,
+        "kept": 3,
+        "notes": "CP837 3★+, CP833 future Wailord reserve, CP19 PvP-IV candidate; Wailord missing; 400 candy required."
+      },
+      {
+        "family": "Numel",
+        "status": "Complete",
+        "transferred": 12,
+        "kept": 2,
+        "notes": "CP597 living Numel + CP669 EVOLVE RUN to Camerupt."
+      },
+      {
+        "family": "Spoink",
+        "status": "Complete",
+        "transferred": 6,
+        "kept": 3,
+        "notes": "CP444 protected/future Grumpig, CP163 PvP-IV candidate, CP18 protected living Spoink."
+      },
+      {
+        "family": "Trapinch",
+        "status": "Complete",
+        "transferred": 9,
+        "kept": 3,
+        "notes": "CP716 living/exception, CP525 future Flygon reserve, Vibrava CP735; Flygon missing."
       }
     ]
   },
-  "events": [
+  "pokemon": [
     {
-      "date": "Oct 1, 6–7 PM",
-      "name": "Seedot Spotlight Hour",
-      "bonus": "2× Catch XP"
+      "dex_no": 286,
+      "name": "Breloom",
+      "cp": 1738,
+      "gender": "F",
+      "caught_date": "2019-01-15",
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "weight_kg": 23.63,
+      "height_m": 0.97,
+      "fast_move": "Counter",
+      "charged_move_1": "Grass Knot",
+      "next_powerup_stardust": 3500,
+      "next_powerup_candy": 3,
+      "tags": [
+        "@special",
+        "PROTECT"
+      ],
+      "role": "KEEP"
     },
     {
-      "date": "Oct 8, 6–7 PM",
-      "name": "Elgyem Spotlight Hour",
-      "bonus": "2× Catch Candy"
+      "dex_no": 277,
+      "name": "Swellow",
+      "cp": 1509,
+      "gender": "M",
+      "caught_date": "2019-01-15",
+      "hp": 120,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "weight_kg": 20.67,
+      "height_m": 0.72,
+      "fast_move": "Steel Wing",
+      "charged_move_1": "Brave Bird",
+      "next_powerup_stardust": 5000,
+      "next_powerup_candy": 4,
+      "second_move_stardust": 10000,
+      "second_move_candy": 25,
+      "role": "KEEP"
     },
     {
-      "date": "Oct 15, 6–7 PM",
-      "name": "Stufful Spotlight Hour",
-      "bonus": "2× Transfer Candy"
+      "dex_no": 283,
+      "name": "Surskit",
+      "cp": 123,
+      "gender": "F",
+      "hp": 43,
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "weight_kg": 1.03,
+      "height_m": 0.45,
+      "fast_move": "Bubble",
+      "charged_move_1": "Signal Beam",
+      "next_powerup_stardust": 600,
+      "next_powerup_candy": 1,
+      "evolve_candy": 50,
+      "role": "KEEP"
     },
     {
-      "date": "Oct 22, 6–7 PM",
-      "name": "Morelull Spotlight Hour",
-      "bonus": "2× Catch Stardust"
+      "dex_no": 283,
+      "name": "Surskit",
+      "cp": 556,
+      "gender": "F",
+      "caught_date": "2019-01-17",
+      "hp": 83,
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "weight_kg": 1.54,
+      "height_m": 0.47,
+      "next_powerup_stardust": 4000,
+      "next_powerup_candy": 4,
+      "evolve_candy": 50,
+      "tags": [
+        "KEEP DEX",
+        "PROTECT",
+        "EVOLVE RUN"
+      ],
+      "role": "EVOLVE"
     },
     {
-      "date": "Oct 29, 6–7 PM",
-      "name": "Gastly Spotlight Hour",
-      "bonus": "2× Evolution XP"
+      "dex_no": 278,
+      "name": "Wingull",
+      "cp": 422,
+      "gender": "F",
+      "hp": 80,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "weight_kg": 13.37,
+      "height_m": 0.69,
+      "fast_move": "Water Gun",
+      "charged_move_1": "Ice Beam",
+      "next_powerup_stardust": 2500,
+      "next_powerup_candy": 2,
+      "evolve_candy": 50,
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 278,
+      "name": "Wingull",
+      "cp": 425,
+      "gender": "F",
+      "caught_date": "2019-01-19",
+      "hp": 83,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "weight_kg": 6.73,
+      "height_m": 0.61,
+      "fast_move": "Quick Attack",
+      "charged_move_1": "Ice Beam",
+      "next_powerup_stardust": 3500,
+      "next_powerup_candy": 3,
+      "evolve_candy": 50,
+      "tags": [
+        "KEEP DEX",
+        "PROTECT"
+      ],
+      "role": "EVOLVE_RESERVE"
+    },
+    {
+      "dex_no": 304,
+      "name": "Aron",
+      "cp": 1089,
+      "gender": "M",
+      "caught_date": "2019-01-16",
+      "hp": 109,
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "weight_kg": 48.96,
+      "height_m": 0.38,
+      "fast_move": "Metal Claw",
+      "charged_move_1": "Rock Tomb",
+      "next_powerup_stardust": 5000,
+      "next_powerup_candy": 4,
+      "evolve_candy": 25,
+      "appraisal_stars": 3,
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 304,
+      "name": "Aron",
+      "cp": 880,
+      "gender": "M",
+      "caught_date": "2019-01-19",
+      "hp": 98,
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "weight_kg": 59.87,
+      "height_m": 0.43,
+      "fast_move": "Tackle",
+      "charged_move_1": "Body Slam",
+      "next_powerup_stardust": 3500,
+      "next_powerup_candy": 3,
+      "evolve_candy": 25,
+      "appraisal_stars": 3,
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 304,
+      "name": "Aron",
+      "cp": 830,
+      "gender": "F",
+      "hp": 95,
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "weight_kg": 85.22,
+      "height_m": 0.49,
+      "fast_move": "Metal Sound",
+      "charged_move_1": "Rock Tomb",
+      "next_powerup_stardust": 3500,
+      "next_powerup_candy": 3,
+      "evolve_candy": 25,
+      "appraisal_stars": 3,
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 305,
+      "name": "Lairon",
+      "cp": 1143,
+      "gender": "F",
+      "caught_date": "2019-01-08",
+      "hp": 99,
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "weight_kg": 153.73,
+      "height_m": 1.01,
+      "fast_move": "Iron Tail",
+      "charged_move_1": "Body Slam",
+      "next_powerup_stardust": 2500,
+      "next_powerup_candy": 2,
+      "evolve_candy": 100,
+      "tags": [
+        "KEEP DEX",
+        "PROTECT"
+      ],
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 307,
+      "name": "Meditite",
+      "cp": 404,
+      "gender": "M",
+      "caught_date": "2019-01-24",
+      "hp": 73,
+      "types": [
+        "Fighting",
+        "Psychic"
+      ],
+      "weight_kg": 13.62,
+      "height_m": 0.65,
+      "fast_move": "Confusion",
+      "charged_move_1": "Ice Punch",
+      "next_powerup_stardust": 3000,
+      "next_powerup_candy": 3,
+      "evolve_candy": 50,
+      "tags": [
+        "KEEP DEX",
+        "KEEP PVP",
+        "PROTECT"
+      ],
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 307,
+      "name": "Meditite",
+      "cp": 398,
+      "gender": "M",
+      "caught_date": "2019-01-17",
+      "hp": 68,
+      "types": [
+        "Fighting",
+        "Psychic"
+      ],
+      "weight_kg": 12.53,
+      "height_m": 0.65,
+      "fast_move": "Rock Smash",
+      "charged_move_1": "Ice Punch",
+      "next_powerup_stardust": 3000,
+      "next_powerup_candy": 3,
+      "evolve_candy": 50,
+      "tags": [
+        "KEEP DEX",
+        "KEEP PVP",
+        "PROTECT"
+      ],
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 310,
+      "name": "Manectric",
+      "cp": 1325,
+      "gender": "F",
+      "caught_date": "2019-01-15",
+      "hp": 111,
+      "types": [
+        "Electric"
+      ],
+      "weight_kg": 27.04,
+      "height_m": 1.35,
+      "next_powerup_stardust": 2500,
+      "next_powerup_candy": 2,
+      "tags": [
+        "KEEP DEX",
+        "PROTECT"
+      ],
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 311,
+      "name": "Plusle",
+      "cp": 996,
+      "gender": "M",
+      "caught_date": "2019-01-25",
+      "hp": 99,
+      "types": [
+        "Electric"
+      ],
+      "weight_kg": 5.85,
+      "height_m": 0.47,
+      "fast_move": "Quick Attack",
+      "charged_move_1": "Discharge",
+      "next_powerup_stardust": 2500,
+      "next_powerup_candy": 2,
+      "appraisal_stars": 3,
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 312,
+      "name": "Minun",
+      "cp": 1159,
+      "gender": "M",
+      "caught_date": "2019-01-17",
+      "hp": 110,
+      "types": [
+        "Electric"
+      ],
+      "weight_kg": 4.16,
+      "height_m": 0.36,
+      "fast_move": "Quick Attack",
+      "charged_move_1": "Thunderbolt",
+      "next_powerup_stardust": 4000,
+      "next_powerup_candy": 3,
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 316,
+      "name": "Gulpin",
+      "cp": 487,
+      "gender": "M",
+      "caught_date": "2019-01-26",
+      "hp": 111,
+      "types": [
+        "Poison"
+      ],
+      "weight_kg": 9.32,
+      "height_m": 0.37,
+      "fast_move": "Pound",
+      "charged_move_1": "Sludge",
+      "next_powerup_stardust": 2500,
+      "next_powerup_candy": 2,
+      "evolve_candy": 50,
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 317,
+      "name": "Swalot",
+      "cp": 1433,
+      "gender": "M",
+      "caught_date": "2019-01-12",
+      "hp": 163,
+      "types": [
+        "Poison"
+      ],
+      "weight_kg": 63.68,
+      "height_m": 1.54,
+      "fast_move": "Rock Smash",
+      "charged_move_1": "Gunk Shot",
+      "next_powerup_stardust": 4500,
+      "next_powerup_candy": 4,
+      "role": "KEEP"
+    },
+    {
+      "dex_no": 322,
+      "name": "Numel",
+      "cp": 669,
+      "gender": "M",
+      "caught_date": "2019-01-25",
+      "hp": 112,
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "weight_kg": 25.13,
+      "height_m": 0.67,
+      "fast_move": "Tackle",
+      "charged_move_1": "Heat Wave",
+      "next_powerup_stardust": 4000,
+      "next_powerup_candy": 3,
+      "evolve_candy": 50,
+      "tags": [
+        "KEEP DEX",
+        "PROTECT",
+        "EVOLVE RUN"
+      ],
+      "role": "EVOLVE"
+    },
+    {
+      "dex_no": 329,
+      "name": "Vibrava",
+      "cp": 735,
+      "gender": "M",
+      "caught_date": "2019-01-16",
+      "hp": 90,
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "weight_kg": 17.94,
+      "height_m": 1.18,
+      "fast_move": "Mud Shot",
+      "charged_move_1": "Sand Tomb",
+      "next_powerup_stardust": 3500,
+      "next_powerup_candy": 3,
+      "evolve_candy": 100,
+      "tags": [
+        "KEEP DEX",
+        "PROTECT"
+      ],
+      "role": "KEEP"
     }
   ],
-  "collection_status": {
-    "tracked_records": 7,
-    "note": "PMS currently contains verified detailed records only; family audits are preserved separately while full inventory import is built."
+  "research_plan": {
+    "evolution_train": true,
+    "rules": [
+      "Never consume the only living-Dex copy to satisfy research.",
+      "Retain evolution reserves for missing stages.",
+      "Protect shiny, costume, Shadow/Purified, Lucky, @special/legacy, useful PvE/PvP and research-reserved Pokémon."
+    ],
+    "active_known_needs": [
+      "Evolve 15 Pokémon (Finding Your Voice)",
+      "Evolve a Feebas (A Thousand-Year Slumber)",
+      "Evolve a Grimer (Let's GO, Meltan)",
+      "Evolve a Magikarp (A Mythical Discovery)",
+      "Evolve one Dratini (Jump-Start Research)",
+      "Power-up tasks are stacked across active research where possible."
+    ]
+  },
+  "events": [],
+  "resume": {
+    "title": "Cleanup session resume — 2026-09-27 01:42 ET",
+    "current": "Paused after completing Trapinch family cleanup.",
+    "next": "Resume with Swablu family audit.",
+    "remaining_families": [
+      "Swablu",
+      "Barboach",
+      "Corphish",
+      "Anorith",
+      "Feebas",
+      "Castform",
+      "Shuppet",
+      "Spheal",
+      "Cherubi",
+      "Darumaka",
+      "Phantump"
+    ],
+    "checkpoint": "Storage 1088/1325; Stardust 594,642; 228 confirmed transfers in tracked cleanup."
   }
 }
