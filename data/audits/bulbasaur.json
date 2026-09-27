@@ -108,7 +108,8 @@
       268,
       13
     ],
-    "status": "approved_pending_user_transfer"
+    "status": "transferred_confirmed",
+    "confirmed_at": "2026-09-26T23:53:00-04:00"
   },
   "keep_plan": {
     "bulbasaur": [
@@ -119,5 +120,29 @@
       767
     ],
     "venusaur": "missing; future evolution"
+  },
+  "post_transfer": {
+    "storage_used": 1283,
+    "storage_capacity": 1325,
+    "bulbasaur_candy": 86,
+    "bulbasaur_candy_xl": 1,
+    "stardust": 594642
+  },
+  "ivysaur_detail": {
+    "cp": 767,
+    "gender": "M",
+    "hp": 90,
+    "weight_kg": 16.4,
+    "height_m": 1.11,
+    "caught_date": "2016-08-03",
+    "tags": [
+      "KEEP DEX",
+      "PROTECT"
+    ],
+    "fast_move": "Razor Leaf",
+    "charged_move": "Solar Beam",
+    "power_up_cost": "1900 Stardust + 2 Candy",
+    "evolve_cost": "100 Candy",
+    "new_attack_cost": "10000 Stardust + 25 Candy"
   }
 }
