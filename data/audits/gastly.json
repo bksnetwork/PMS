@@ -18,7 +18,7 @@
   ],
   "gengar": [],
   "visual_notes": "9 Gastly + 2 Haunter; no Gengar visible. Gastly 519/515/501/336/332/115 and Haunter 916/895 visibly tagged; 818/768/636 appear untagged in screenshot.",
-  "status": "exception and high-appraisal checks complete; final transfer batch pending minimal PvP check",
+  "status": "Gastly family audit complete; six ordinary Gastly approved for transfer, with living family and special/high-appraisal copies protected.",
   "special_result": {
     "count": 1,
     "cp": 332
@@ -60,5 +60,28 @@
       895
     ],
     "gengar": "missing; reserve one Gastly/Haunter path for future Gengar"
+  },
+  "zero_attack": {
+    "count": 0
+  },
+  "transfer_plan": {
+    "transfer_candidates": [
+      818,
+      768,
+      636,
+      501,
+      336,
+      115
+    ],
+    "keep": [
+      519,
+      515,
+      332
+    ],
+    "keep_haunter": [
+      916,
+      895
+    ],
+    "status": "approved_pending_user_selection"
   }
 }
