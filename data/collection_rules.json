@@ -1,0 +1,19 @@
+{
+  "updated": "2026-09-26",
+  "living_dex": true,
+  "keep_every_species_stage": true,
+  "gender_policy": "Keep genders separately only when visually distinct, Pokedex-distinct, or evolution-path distinct.",
+  "protect": [
+    "shiny",
+    "costume",
+    "shadow",
+    "purified",
+    "lucky",
+    "special_move",
+    "research_reserved",
+    "useful_pve",
+    "useful_pvp"
+  ],
+  "evolution_policy": "Retain enough base specimens to fill missing evolution stages while keeping a base-form specimen.",
+  "transfer_policy": "Only confirmed surplus duplicates may be transferred."
+}
