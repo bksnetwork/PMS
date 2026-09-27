@@ -1,0 +1,61 @@
+{
+  "tracked": 7,
+  "species": 2,
+  "pokemon": [
+    {
+      "dex_no": 425,
+      "name": "Drifloon",
+      "cp": 667,
+      "gender": "M",
+      "appraisal_stars": 3,
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+    },
+    {
+      "dex_no": 425,
+      "name": "Drifloon",
+      "cp": 559,
+      "gender": "F",
+      "appraisal_stars": 3,
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+    },
+    {
+      "dex_no": 425,
+      "name": "Drifloon",
+      "cp": 191,
+      "gender": "M",
+      "appraisal_stars": 3,
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+    },
+    {
+      "dex_no": 425,
+      "name": "Drifloon",
+      "cp": 596,
+      "gender": "F",
+      "appraisal_stars": 1,
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+    },
+    {
+      "dex_no": 425,
+      "name": "Drifloon",
+      "cp": 445,
+      "gender": "M",
+      "appraisal_stars": 1,
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+    },
+    {
+      "dex_no": 425,
+      "name": "Drifloon",
+      "cp": 192,
+      "gender": "M",
+      "appraisal_stars": 0,
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png"
+    },
+    {
+      "dex_no": 426,
+      "name": "Drifblim",
+      "cp": 1381,
+      "appraisal_stars": 3,
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png"
+    }
+  ]
+}
