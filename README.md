@@ -1,25 +1,18 @@
-# PMS — Pokémon Management System
+# Pokémon GO Management System (PMS)
 
-Public-safe Pokémon GO collection manager.
+A collector-first Pokémon GO management project for tracking a living Pokédex, planning evolutions and power-ups, managing game resources, and safely cleaning duplicate Pokémon.
 
-## Goals
-- Living Dex / collector-first inventory tracking
-- National Pokédex and region/generation completion
-- Individual Pokémon stats, forms, visually distinct gender variants, shiny, costume/event, Shadow/Purified, Lucky, legacy/@special moves, tags, research reservations, and PvE/PvP roles
-- Resource ledger for Stardust, Candy/XL Candy, balls, berries, TMs, evolution items, incubators, etc.
-- Cleanup recommendations that only mark true surplus duplicates
-- GitHub Pages dashboard with Pokémon artwork
+## Features
+- Living Pokédex and collection tracking
+- Forms, variants, shiny, Shadow/Purified, costume/event, Lucky and special-move tracking
+- IV/appraisal, CP, moves, gender, height/weight and evolution data
+- PvE, PvP, raid, gym and Team GO Rocket planning
+- Research/task reservations so needed Pokémon are not transferred
+- Stardust, Candy/XL Candy and item/resource tracking
+- Conservative KEEP / EVOLVE / POWER UP / REVIEW / TRANSFER workflow
+- Public dashboard with Pokémon artwork
 
-## Privacy boundary
-This repository is public. It must contain Pokémon/game data only. Do **not** commit trainer identity, email, phone, workplace, addresses, precise catch locations, raw screenshots, tokens, or unrelated POD data.
+## Website
+https://bksnetwork.github.io/PMS/
 
-## Public site
-GitHub Pages deploys the `public/` folder through `.github/workflows/pages.yml`.
-
-## Local database
-```bash
-python3 server.py
-```
-Then open http://127.0.0.1:8765
-
-The local SQLite database is ignored by Git and is not published.
+Pokémon and related names and artwork are trademarks of Nintendo, Creatures Inc., and GAME FREAK. Pokémon data/artwork references use the PokeAPI sprites project.
