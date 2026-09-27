@@ -72,5 +72,52 @@
   "high_appraisal_search": {
     "query": "bulbasaur&3*,4*",
     "count": 0
+  },
+  "zero_attack": {
+    "count": 1,
+    "cp": 40,
+    "gender": "M",
+    "hp": 22,
+    "weight_kg": 3.72,
+    "height_m": 0.63,
+    "appraisal_stars": 0,
+    "attack_iv": 0,
+    "defense_iv_note": "very low, approx 2",
+    "hp_iv_note": "approx 10",
+    "fast_move": "Vine Whip",
+    "charged_move": "Power Whip",
+    "power_up_cost": "200 Stardust + 1 Candy",
+    "evolve_cost": "25 Candy",
+    "new_attack_cost": "10000 Stardust + 25 Candy"
+  },
+  "resource_snapshot": {
+    "stardust": 594642,
+    "bulbasaur_candy": 77,
+    "venusaur_mega_energy": 0
+  },
+  "transfer_batch": {
+    "selected_count": 9,
+    "cps": [
+      733,
+      689,
+      637,
+      593,
+      519,
+      454,
+      367,
+      268,
+      13
+    ],
+    "status": "approved_pending_user_transfer"
+  },
+  "keep_plan": {
+    "bulbasaur": [
+      870,
+      40
+    ],
+    "ivysaur": [
+      767
+    ],
+    "venusaur": "missing; future evolution"
   }
 }
