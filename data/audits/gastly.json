@@ -1,0 +1,22 @@
+{
+  "updated": "2026-09-26T23:54:00-04:00",
+  "family_total": 11,
+  "gastly": [
+    818,
+    768,
+    636,
+    519,
+    515,
+    501,
+    336,
+    332,
+    115
+  ],
+  "haunter": [
+    916,
+    895
+  ],
+  "gengar": [],
+  "visual_notes": "9 Gastly + 2 Haunter; no Gengar visible. Gastly 519/515/501/336/332/115 and Haunter 916/895 visibly tagged; 818/768/636 appear untagged in screenshot.",
+  "status": "visual_audit_complete_pending_exception_checks"
+}
