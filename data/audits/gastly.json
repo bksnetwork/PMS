@@ -82,6 +82,14 @@
       916,
       895
     ],
-    "status": "approved_pending_user_selection"
+    "status": "transferred_confirmed",
+    "confirmed_at": "2026-09-27T00:20:00-04:00"
+  },
+  "post_transfer": {
+    "storage_used": 1278,
+    "storage_capacity": 1325,
+    "gastly_candy": 53,
+    "gastly_candy_xl": 2,
+    "stardust": 594642
   }
 }
