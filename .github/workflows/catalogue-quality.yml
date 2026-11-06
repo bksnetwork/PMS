@@ -1,0 +1,39 @@
+name: Card Catalogue Quality
+on:
+  pull_request:
+    paths:
+      - 'catalogue/**'
+      - 'tools/**'
+      - '.github/workflows/catalogue-quality.yml'
+  push:
+    branches: [feature/card-catalogue]
+    paths:
+      - 'catalogue/**'
+      - 'tools/**'
+      - '.github/workflows/catalogue-quality.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: JavaScript syntax
+        run: node --check catalogue/app.js
+      - name: Python syntax
+        run: python -m compileall -q tools
+      - name: Unit tests
+        run: python -m unittest discover -s tools -p 'test_*.py' -v
+      - name: Validate published snapshots if present
+        run: |
+          if test -f catalogue/data/index.json; then
+            python tools/verify_catalogue.py
+          else
+            echo "No published catalogue snapshot yet; skipping snapshot validation."
+          fi
