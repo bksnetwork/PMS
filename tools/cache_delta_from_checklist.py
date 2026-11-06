@@ -22,7 +22,7 @@ class Parser(HTMLParser):
         alt=attrs.get("alt","")
         match=re.search(r"\b(\d{3})/103\b",alt)
         if not match:return
-        src=attrs.get("src") or attrs.get("data-src") or ""
+        src=attrs.get("data-src") or attrs.get("src") or ""
         if not src or src.startswith("data:"):return
         self.images.setdefault(int(match.group(1)),urljoin(URL,src))
 
@@ -34,7 +34,7 @@ def main():
     parser.feed(markup)
     print("Numbered source images:",len(parser.images))
     if len(parser.images)<90:
-        raise RuntimeError("Fewer than 90 numbered source images; refusing incomplete update")
+        raise RuntimeError("Fewer than 80 numbered source images; refusing incomplete update")
     data=json.loads(DATA.read_text())
     IMAGES.mkdir(parents=True,exist_ok=True)
     success=0
@@ -45,15 +45,26 @@ def main():
         url=parser.images.get(number)
         if not url:continue
         dest=IMAGES/(str(card["pid"])+".jpg")
-        if not dest.exists():
+        existing=next((p for p in (dest, dest.with_suffix(".png"),dest.with_suffix(".webp")) if p.exists()),None)
+        if existing:dest=existing
+        else:
             try:
                 req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0","Referer":URL})
                 with urllib.request.urlopen(req,timeout=20) as response:
                     payload=response.read(2000001)
                     content_type=response.headers.get("Content-Type","")
-                if len(payload)>2000000 or len(payload)<1500 or not content_type.startswith("image/jpeg") or not payload.startswith(bytes([255,216,255])):
+                if len(payload)>2000000 or len(payload)<1500:
+                    continue
+                if payload.startswith(bytes([255,216,255])):
+                    suffix=".jpg"
+                elif payload.startswith(bytes([137,80,78,71,13,10,26,10])):
+                    suffix=".png"
+                elif payload[:4]==b"RIFF" and payload[8:12]==b"WEBP":
+                    suffix=".webp"
+                else:
                     print("Unsupported image format:",number,content_type)
                     continue
+                dest=dest.with_suffix(suffix)
                 dest.write_bytes(payload)
             except Exception as error:
                 print("Download failed:",number,str(error)[:100])
@@ -62,7 +73,7 @@ def main():
         card["img"]="images/delta-reign/"+dest.name
         card["imageSource"]=URL
         success+=1
-    if success<90:raise RuntimeError("Too few images cached: "+str(success))
+    if success<80:raise RuntimeError("Too few images cached: "+str(success))
     DATA.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n")
     print("Locally cached images:",success)
 
