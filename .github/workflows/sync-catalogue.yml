@@ -6,6 +6,7 @@ on:
       - 'catalogue/sets.json'
       - 'tools/sync_catalogue.py'
       - 'tools/discover_catalogue.py'
+      - 'tools/cache_catalogue_images.py'
       - '.github/workflows/sync-catalogue.yml'
   workflow_dispatch:
   schedule:
