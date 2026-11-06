@@ -1,7 +1,7 @@
 {
   "id": "delta-reign",
   "name": "ME06: Delta Reign",
-  "updated": "2026-11-06T03:43:50.286848+00:00",
+  "updated": "2026-11-06T15:55:59.098684+00:00",
   "cards": [
     {
       "pid": 726510,
@@ -48,7 +48,7 @@
       "name": "Mega Golisopod ex 011 103",
       "num": "011/103",
       "rarity": "Double Rare",
-      "img": "images/delta-reign/726512.png",
+      "img": "images/delta-reign/726512.jpg",
       "role": "main",
       "prints": [
         {
@@ -160,7 +160,7 @@
       "name": "Heat Rotom ex 023 103",
       "num": "023/103",
       "rarity": "Double Rare",
-      "img": "images/delta-reign/726518.png",
+      "img": "images/delta-reign/726518.jpg",
       "role": "main",
       "prints": [
         {
@@ -212,7 +212,7 @@
       "name": "Electivire 031 103",
       "num": "031/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726521.png",
+      "img": "images/delta-reign/726521.jpg",
       "role": "main",
       "prints": [
         {
@@ -268,7 +268,7 @@
       "name": "Thundurus",
       "num": "035/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726524.png",
+      "img": "images/delta-reign/726524.jpg",
       "role": "main",
       "prints": [
         {
@@ -308,7 +308,7 @@
       "name": "Hypno",
       "num": "044/103",
       "rarity": "Common",
-      "img": "images/delta-reign/726526.png",
+      "img": "images/delta-reign/726526.jpg",
       "role": "main",
       "prints": [
         {
@@ -348,7 +348,7 @@
       "name": "Mega Golurk ex 047 103",
       "num": "047/103",
       "rarity": "Double Rare",
-      "img": "images/delta-reign/726528.png",
+      "img": "images/delta-reign/726528.jpg",
       "role": "main",
       "prints": [
         {
@@ -364,7 +364,7 @@
       "name": "Groudon",
       "num": "053/103",
       "rarity": "Rare",
-      "img": "images/delta-reign/726529.png",
+      "img": "images/delta-reign/726529.jpg",
       "role": "main",
       "prints": [
         {
@@ -384,7 +384,7 @@
       "name": "Landorus",
       "num": "054/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726530.png",
+      "img": "images/delta-reign/726530.jpg",
       "role": "main",
       "prints": [
         {
@@ -424,7 +424,7 @@
       "name": "Spinarak",
       "num": "058/103",
       "rarity": "Common",
-      "img": "images/delta-reign/726532.png",
+      "img": "images/delta-reign/726532.jpg",
       "role": "main",
       "prints": [
         {
@@ -464,7 +464,7 @@
       "name": "Mega Malamar ex 069 103",
       "num": "069/103",
       "rarity": "Double Rare",
-      "img": "images/delta-reign/726534.png",
+      "img": "images/delta-reign/726534.jpg",
       "role": "main",
       "prints": [
         {
@@ -520,7 +520,7 @@
       "name": "Druddigon",
       "num": "072/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726537.png",
+      "img": "images/delta-reign/726537.jpg",
       "role": "main",
       "prints": [
         {
@@ -540,7 +540,7 @@
       "name": "Kommo o",
       "num": "075/103",
       "rarity": "Rare",
-      "img": "images/delta-reign/726538.png",
+      "img": "images/delta-reign/726538.jpg",
       "role": "main",
       "prints": [
         {
@@ -580,7 +580,7 @@
       "name": "Delibird",
       "num": "079/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726540.png",
+      "img": "images/delta-reign/726540.jpg",
       "role": "main",
       "prints": [
         {
@@ -620,7 +620,7 @@
       "name": "Kecleon",
       "num": "083/103",
       "rarity": "Common",
-      "img": "images/delta-reign/726542.png",
+      "img": "images/delta-reign/726542.jpg",
       "role": "main",
       "prints": [
         {
@@ -640,7 +640,7 @@
       "name": "Mega Rayquaza ex",
       "num": "084/103",
       "rarity": "Double Rare",
-      "img": "images/delta-reign/726543.png",
+      "img": "images/delta-reign/726543.jpg",
       "role": "main",
       "prints": [
         {
@@ -656,7 +656,7 @@
       "name": "Tornadus",
       "num": "085/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726544.png",
+      "img": "images/delta-reign/726544.jpg",
       "role": "main",
       "prints": [
         {
@@ -696,7 +696,7 @@
       "name": "Adventure Lantern",
       "num": "090/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726546.png",
+      "img": "images/delta-reign/726546.jpg",
       "role": "main",
       "prints": [
         {
@@ -756,7 +756,7 @@
       "name": "Grisham",
       "num": "093/103",
       "rarity": "Uncommon",
-      "img": "https://tcgplayer-cdn.tcgplayer.com/product/726549_200w.jpg",
+      "img": "images/delta-reign/726549.jpg",
       "role": "main",
       "prints": [
         {
@@ -767,14 +767,15 @@
           "t": "Normal",
           "m": 0.23
         }
-      ]
+      ],
+      "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/726549_200w.jpg"
     },
     {
       "pid": 726550,
       "name": "Legendary Pyroduct 094 103 Left",
       "num": "094/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726550.png",
+      "img": "images/delta-reign/726550.jpg",
       "role": "main",
       "prints": [
         {
@@ -790,7 +791,7 @@
       "name": "Legendary Summit 096 103 Left",
       "num": "096/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726551.png",
+      "img": "images/delta-reign/726551.jpg",
       "role": "main",
       "prints": [
         {
@@ -806,7 +807,7 @@
       "name": "Legendary Trench 099 103 Right",
       "num": "099/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726552.png",
+      "img": "images/delta-reign/726552.jpg",
       "role": "main",
       "prints": [
         {
@@ -882,7 +883,7 @@
       "name": "Zinnias Trust 103 103",
       "num": "103/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726556.png",
+      "img": "images/delta-reign/726556.jpg",
       "role": "main",
       "prints": [
         {
@@ -982,7 +983,7 @@
       "name": "Enamorus 110 103",
       "num": "110/103",
       "rarity": "Illustration Rare",
-      "img": "images/delta-reign/726562.png",
+      "img": "images/delta-reign/726562.jpg",
       "role": "main",
       "prints": [
         {
@@ -1190,7 +1191,7 @@
       "name": "Aarune 139 103",
       "num": "139/103",
       "rarity": "Special Illustration Rare",
-      "img": "images/delta-reign/726575.png",
+      "img": "images/delta-reign/726575.jpg",
       "role": "main",
       "prints": [
         {
@@ -1222,7 +1223,7 @@
       "name": "Legendary Summit 097 103 Right",
       "num": "097/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726721.png",
+      "img": "images/delta-reign/726721.jpg",
       "role": "main",
       "prints": [
         {
@@ -1238,7 +1239,7 @@
       "name": "Legendary Pyroduct 095 103 Right",
       "num": "095/103",
       "rarity": "Uncommon",
-      "img": "images/delta-reign/726722.png",
+      "img": "images/delta-reign/726722.jpg",
       "role": "main",
       "prints": [
         {
