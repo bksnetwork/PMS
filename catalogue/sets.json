@@ -3,27 +3,28 @@
   "sets": [
     {
       "id": "30th-celebration",
-      "name": "30th Celebration (unverified mapping)",
+      "name": "30th Celebration",
       "groups": [
         {
           "match": "30th Celebration",
           "role": "main"
         },
         {
-          "match": "30th Celebration.*Classic",
+          "match": "30th Celebration(: | - )Classic Collection",
           "role": "master"
         }
       ]
     },
     {
       "id": "delta-reign",
-      "name": "Delta Reign (unverified mapping)",
+      "name": "Delta Reign",
       "groups": [
         {
-          "match": "Delta Reign",
+          "match": "(Mega Evolution - )?Delta Reign",
           "role": "main"
         }
       ]
     }
-  ]
+  ],
+  "grandMasterPolicy": "Officially associated stamped, retailer, Pokemon Center, prerelease and other promotional variants must be added as individually verified TCGplayer products; do not imply the list is complete without a verified promo inventory."
 }
