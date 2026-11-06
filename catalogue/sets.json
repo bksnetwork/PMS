@@ -2,29 +2,29 @@
   "category": 3,
   "sets": [
     {
-      "id": "30th-celebration",
-      "name": "30th Celebration",
+      "id": "celebrations",
+      "name": "Celebrations (2021)",
       "groups": [
         {
-          "match": "30th Celebration",
+          "match": "Celebrations",
           "role": "main"
         },
         {
-          "match": "30th Celebration(: | - )Classic Collection",
+          "match": "Celebrations: Classic Collection",
           "role": "master"
         }
       ]
     },
     {
-      "id": "delta-reign",
-      "name": "Delta Reign",
+      "id": "scarlet-violet-151",
+      "name": "Scarlet & Violet—151",
       "groups": [
         {
-          "match": "(Mega Evolution - )?Delta Reign",
+          "match": "151",
           "role": "main"
         }
       ]
     }
   ],
-  "grandMasterPolicy": "Officially associated stamped, retailer, Pokemon Center, prerelease and other promotional variants must be added as individually verified TCGplayer products; do not imply the list is complete without a verified promo inventory."
+  "grandMasterPolicy": "Grand Master requires independently verified set-related stamped, Pokemon Center, retailer, prerelease, promotional and other variants. Do not claim full coverage from TCGplayer group data alone."
 }
