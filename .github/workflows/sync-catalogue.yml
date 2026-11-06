@@ -7,6 +7,7 @@ on:
       - 'tools/sync_catalogue.py'
       - 'tools/discover_catalogue.py'
       - 'tools/cache_catalogue_images.py'
+      - 'tools/cache_delta_from_checklist.py'
       - 'catalogue/data/delta-reign.json'
       - '.github/workflows/sync-catalogue.yml'
   workflow_dispatch:
@@ -30,6 +31,8 @@ jobs:
         run: python tools/sync_catalogue.py
       - name: Cache card images in repository
         run: python tools/cache_catalogue_images.py
+      - name: Recover Delta Reign artwork from numbered checklist
+        run: python tools/cache_delta_from_checklist.py
       - name: Validate catalogue snapshots
         run: python tools/verify_catalogue.py
       - name: Commit only validated changes
