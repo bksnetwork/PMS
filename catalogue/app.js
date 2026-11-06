@@ -22,7 +22,7 @@ function stats(){const s=sets.find(s=>s.id===$('set').value);if(!s)return;const 
 // Try independent TCGplayer image endpoints before displaying a useful placeholder.
 document.addEventListener('error',event=>{
  const img=event.target;if(!(img instanceof HTMLImageElement)||!img.matches('.card-image-button img'))return;
- const pid=img.dataset.pid;if(!/^\\d+$/.test(pid)||Number(pid)>=900000000)return;
+ const pid=img.dataset.pid;if(!/^\d+$/.test(pid)||Number(pid)>=900000000)return;
  const step=Number(img.dataset.fallback||0);
  const urls=['https://product-images.tcgplayer.com/fit-in/437x437/'+pid+'.jpg','https://tcgplayer-cdn.tcgplayer.com/product/'+pid+'_in_1000x1000.jpg'];
  if(step<urls.length){img.dataset.fallback=String(step+1);img.src=urls[step];return;}
