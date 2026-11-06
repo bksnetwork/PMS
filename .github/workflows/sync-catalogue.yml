@@ -7,6 +7,7 @@ on:
       - 'tools/sync_catalogue.py'
       - 'tools/discover_catalogue.py'
       - 'tools/cache_catalogue_images.py'
+      - 'catalogue/data/delta-reign.json'
       - '.github/workflows/sync-catalogue.yml'
   workflow_dispatch:
   schedule:
