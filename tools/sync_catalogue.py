@@ -18,6 +18,7 @@ def get(url):
             time.sleep(2*(attempt+1))
 def run():
     cfg=json.loads((ROOT/"sets.json").read_text())
+    if not cfg.get("sets"): raise ValueError("No sets configured")
     groups=get(f'{BASE}{cfg["category"]}/groups')
     staged=[]
     failures=[]
@@ -44,6 +45,8 @@ def run():
                     if not ext.get("Number"): continue
                     cards.append({"pid":p["productId"],"name":p.get("cleanName") or p["name"],"num":ext["Number"],"rarity":ext.get("Rarity",""),"img":p.get("imageUrl",""),"role":role,"prints":prices.get(p["productId"]) or [{"t":"Normal","m":None}]})
             if not cards: raise ValueError(f'{spec["id"]}: empty card list; refusing to overwrite')
+            ids=[c["pid"] for c in cards]
+            if len(ids)!=len(set(ids)): raise ValueError(f'{spec["id"]}: duplicate products across groups')
             staged.append((spec["id"],{"id":spec["id"],"name":spec["name"],"updated":datetime.now(timezone.utc).isoformat(),"cards":cards}))
         except (ValueError, KeyError, TypeError) as exc:
             failures.append(f"{spec['id']}: {exc}")
