@@ -3,26 +3,31 @@
   "sets": [
     {
       "id": "30th-celebrations",
-      "name": "30th Celebrations",
-      "status": "awaiting-verified-source",
+      "name": "ME: 30th Celebration",
       "groups": [
         {
-          "match": "30th Celebrations",
+          "groupId": 24722,
+          "match": "ME: 30th Celebration",
           "role": "main"
+        },
+        {
+          "groupId": 24837,
+          "match": "ME: 30th Celebration Classic Collection",
+          "role": "master"
         }
       ]
     },
     {
       "id": "delta-reign",
-      "name": "Delta Reign",
-      "status": "awaiting-verified-source",
+      "name": "ME06: Delta Reign",
       "groups": [
         {
-          "match": "Delta Reign",
+          "groupId": 24831,
+          "match": "ME06: Delta Reign",
           "role": "main"
         }
       ]
     }
   ],
-  "grandMasterPolicy": "All verified set-related stamped, Pokemon Center, retailer, prerelease, promotional and other variants. Do not silently substitute a different release or invent a complete set."
+  "grandMasterPolicy": "Official set-related promos, stamped, retailer, Pokemon Center, prerelease and other special variants require individually verified product mappings."
 }
