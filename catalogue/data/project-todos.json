@@ -1,0 +1,77 @@
+{
+  "updated": "2026-11-05",
+  "tasks": [
+    {
+      "id": "CAT-001",
+      "title": "Grand Master promo completeness",
+      "status": "in_progress",
+      "details": "Initial source-confirmed promo overlay added; verify card numbers, missing stamped variants, and product links for both sets."
+    },
+    {
+      "id": "CAT-002",
+      "title": "Delta Reign artwork",
+      "status": "blocked",
+      "details": "Image sources have limited availability before November 6 release; retry caching and verify each artwork."
+    },
+    {
+      "id": "CAT-003",
+      "title": "Full set checklist audit",
+      "status": "in_progress",
+      "details": "Compare numbered set, secret rares, energy, holo/reverse variants and Classic Collection against official checklists."
+    },
+    {
+      "id": "CAT-004",
+      "title": "Market-price integrity",
+      "status": "in_progress",
+      "details": "Show timestamp and exclude unknown prices; verify market-price refresh and distinguish unpriced promos."
+    },
+    {
+      "id": "CAT-005",
+      "title": "Owner-only collection editing",
+      "status": "blocked",
+      "details": "Firebase/GitHub authentication intentionally postponed; public site remains read-only."
+    },
+    {
+      "id": "CAT-006",
+      "title": "Mobile and desktop browser smoke tests",
+      "status": "todo",
+      "details": "Automate loading, navigation, filters, viewer, Settings and images in Safari-compatible browser testing."
+    },
+    {
+      "id": "CAT-007",
+      "title": "Promo images and pricing",
+      "status": "todo",
+      "details": "Find verified card-specific artwork and TCGplayer product IDs for promo overlay; avoid placeholder prices."
+    },
+    {
+      "id": "CAT-008",
+      "title": "Settings and task log",
+      "status": "completed",
+      "details": "Added Settings page and GitHub-maintained status log; moved tools and price actions out of sidebar."
+    },
+    {
+      "id": "CAT-009",
+      "title": "Continuous scroll",
+      "status": "completed",
+      "details": "Removed pagination and show all matching card variants."
+    },
+    {
+      "id": "CAT-010",
+      "title": "Missing-estimate exclusions",
+      "status": "completed",
+      "details": "Per-card exclusions and filters persist locally on each device."
+    },
+    {
+      "id": "CAT-011",
+      "title": "Tier difference filters",
+      "status": "completed",
+      "details": "Master minus Basic and Grand minus Master filters added."
+    },
+    {
+      "id": "CAT-012",
+      "title": "Image fallback handling",
+      "status": "completed",
+      "details": "Alternative endpoints and graceful placeholders added; artwork availability remains tracked separately."
+    }
+  ]
+}
