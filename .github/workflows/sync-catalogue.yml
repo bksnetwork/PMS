@@ -17,6 +17,8 @@ jobs:
           python-version: '3.12'
       - name: Update card and price data
         run: python tools/sync_catalogue.py
+      - name: Validate catalogue snapshots
+        run: python tools/verify_catalogue.py
       - name: Commit only validated changes
         run: |
           git config user.name "github-actions[bot]"
