@@ -1,0 +1,469 @@
+{
+  "sources": {
+    "30th-celebrations": [
+      "https://www.pokemon.com/uk/news/pokemon-tcg-30th-celebration-product-showcase",
+      "https://tcgguy.com/blogs/card-lists/pokemon-30th-celebration-card-list",
+      "https://www.pokeguardian.com/3361286_mewtwo-30th-celebration-store-promo-revealed"
+    ],
+    "delta-reign": [
+      "https://www.pokemon.com/uk/news/pokemon-tcg-mega-evolution-delta-reign-product-showcase",
+      "https://www.pokebeach.com/2026/10/delta-reign-set-guide-full-card-list-cut-cards-product-lineup-store-promos-and-more"
+    ]
+  },
+  "sets": {
+    "30th-celebrations": [
+      {
+        "pid": 900000000,
+        "name": "Alolan Exeggutor",
+        "num": "MEP 094",
+        "origin": "Tech Sticker Collection",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000001,
+        "name": "Lucario",
+        "num": "MEP 095",
+        "origin": "Tech Sticker Collection",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000002,
+        "name": "Moltres",
+        "num": "MEP 096",
+        "origin": "Poster Collection",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000003,
+        "name": "Articuno",
+        "num": "MEP 097",
+        "origin": "Poster Collection",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000004,
+        "name": "Zapdos",
+        "num": "MEP 098",
+        "origin": "Poster Collection",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000005,
+        "name": "Greninja ex",
+        "num": "MEP 099",
+        "origin": "Pokémon ex Box",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000006,
+        "name": "Sylveon ex",
+        "num": "MEP 100",
+        "origin": "Pokémon ex Box",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000007,
+        "name": "Nidorina",
+        "num": "MEP 101",
+        "origin": "Elite Trainer Box",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000008,
+        "name": "Nidorina — Pokémon Center stamp",
+        "num": "MEP 101 PC",
+        "origin": "Pokémon Center Elite Trainer Box",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000009,
+        "name": "Victini",
+        "num": "MEP 102",
+        "origin": "Espeon ex Battle Deck",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000010,
+        "name": "Zeraora",
+        "num": "MEP 103",
+        "origin": "Umbreon ex Battle Deck",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000011,
+        "name": "Mewtwo",
+        "num": "MEP 104",
+        "origin": "Figure Collection",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000012,
+        "name": "Mew",
+        "num": "MEP 105",
+        "origin": "Figure Collection",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000013,
+        "name": "Ditto",
+        "num": "MEP 106",
+        "origin": "Premium Collection",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000014,
+        "name": "Pikachu ex — Day",
+        "num": "MEP 107",
+        "origin": "Ultra-Premium Collection Day",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000015,
+        "name": "Espeon ex",
+        "num": "MEP 108",
+        "origin": "Ultra-Premium Collection Day",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000016,
+        "name": "Pikachu ex — Night",
+        "num": "MEP 109",
+        "origin": "Ultra-Premium Collection Night",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000017,
+        "name": "Umbreon ex",
+        "num": "MEP 110",
+        "origin": "Ultra-Premium Collection Night",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000018,
+        "name": "Mewtwo — What's Your Favorite? stamp",
+        "num": "Store promo",
+        "origin": "Participating retailer promotion",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      }
+    ],
+    "delta-reign": [
+      {
+        "pid": 900000019,
+        "name": "Masquerain",
+        "num": "MEP 111",
+        "origin": "Build & Battle",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000020,
+        "name": "Magmortar",
+        "num": "MEP 112",
+        "origin": "Build & Battle",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000021,
+        "name": "Enamorus",
+        "num": "MEP 113",
+        "origin": "Build & Battle",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000022,
+        "name": "Kommo-o",
+        "num": "MEP 114",
+        "origin": "Build & Battle",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000023,
+        "name": "Spritzee",
+        "num": "MEP 115",
+        "origin": "Checklane blister",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000024,
+        "name": "Seel",
+        "num": "MEP 116",
+        "origin": "Three-pack blister",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000025,
+        "name": "Kyogre",
+        "num": "MEP 117",
+        "origin": "Elite Trainer Box",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000026,
+        "name": "Kyogre — Pokémon Center stamp",
+        "num": "MEP 117 PC",
+        "origin": "Pokémon Center Elite Trainer Box",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000027,
+        "name": "Kyogre — What's Your Favorite? stamp",
+        "num": "Store promo",
+        "origin": "Retailer promotion",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000028,
+        "name": "Groudon — What's Your Favorite? stamp",
+        "num": "Store promo",
+        "origin": "GameStop promotion",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      },
+      {
+        "pid": 900000029,
+        "name": "Giratina — What's Your Favorite? stamp",
+        "num": "Store promo",
+        "origin": "Best Buy promotion",
+        "rarity": "Promotional / exclusive",
+        "img": "",
+        "role": "grand",
+        "prints": [
+          {
+            "t": "Promo",
+            "m": null
+          }
+        ]
+      }
+    ]
+  }
+}
