@@ -62,4 +62,5 @@ def run():
     idx.write_text(json.dumps(list(merged.values()),ensure_ascii=False))
     if failures:
         print("Partial update; unresolved sets:", "; ".join(failures), file=sys.stderr)
+        sys.exit(1)
 if __name__=="__main__": run()
