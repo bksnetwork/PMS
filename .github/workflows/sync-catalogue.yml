@@ -1,0 +1,29 @@
+name: Sync Card Catalogue
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 8 * * *'
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/card-catalogue
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Discover target set groups
+        run: python tools/discover_catalogue.py
+      - name: Update card and price data
+        run: python tools/sync_catalogue.py
+      - name: Validate catalogue snapshots
+        run: python tools/verify_catalogue.py
+      - name: Commit only validated changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add catalogue/data
+          git diff --cached --quiet || (git commit -m "Refresh catalogue card and price data" && git push origin HEAD:feature/card-catalogue)

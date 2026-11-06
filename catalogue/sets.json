@@ -1,0 +1,28 @@
+{
+  "category": 3,
+  "sets": [
+    {
+      "id": "30th-celebrations",
+      "name": "30th Celebrations",
+      "status": "awaiting-verified-source",
+      "groups": [
+        {
+          "match": "30th Celebrations",
+          "role": "main"
+        }
+      ]
+    },
+    {
+      "id": "delta-reign",
+      "name": "Delta Reign",
+      "status": "awaiting-verified-source",
+      "groups": [
+        {
+          "match": "Delta Reign",
+          "role": "main"
+        }
+      ]
+    }
+  ],
+  "grandMasterPolicy": "All verified set-related stamped, Pokemon Center, retailer, prerelease, promotional and other variants. Do not silently substitute a different release or invent a complete set."
+}
