@@ -28,7 +28,8 @@ def run():
             matches=[]
             for rule in spec["groups"]:
                 pattern=rule["match"]
-                found=[g for g in groups if re.fullmatch(pattern,g["name"],re.I)]
+                found=[g for g in groups if (g.get("groupId")==rule.get("groupId") if rule.get("groupId") else re.fullmatch(pattern,g["name"],re.I))]
+                if found and not re.fullmatch(pattern,found[0]["name"],re.I): raise ValueError(f"Group ID/name mismatch: {found[0]['name']}")
                 if len(found)!=1:
                     raise ValueError(f'{spec["id"]}: expected exactly one group matching {pattern!r}, got {len(found)}')
                 if any(g["groupId"]==found[0]["groupId"] for g,_ in matches):
@@ -42,7 +43,8 @@ def run():
                     prices.setdefault(p["productId"],[]).append({"t":p.get("subTypeName") or "Normal","m":m if isinstance(m,(int,float)) and m>=0 else None})
                 for p in get(f'{BASE}{cfg["category"]}/{gid}/products'):
                     ext={e["name"]:e["value"] for e in p.get("extendedData",[]) if "name" in e and "value" in e}
-                    if not ext.get("Number"): continue
+                    if not ext.get("Number"): ext["Number"]=str(p.get("productId"))+" (promo)" if role=="grand" else ""
+                    if not ext["Number"]: continue
                     cards.append({"pid":p["productId"],"name":p.get("cleanName") or p["name"],"num":ext["Number"],"rarity":ext.get("Rarity",""),"img":p.get("imageUrl",""),"role":role,"prints":prices.get(p["productId"]) or [{"t":"Normal","m":None}]})
             if not cards: raise ValueError(f'{spec["id"]}: empty card list; refusing to overwrite')
             ids=[c["pid"] for c in cards]
