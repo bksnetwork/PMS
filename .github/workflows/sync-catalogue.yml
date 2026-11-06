@@ -26,11 +26,13 @@ jobs:
         run: python tools/discover_catalogue.py
       - name: Update card and price data
         run: python tools/sync_catalogue.py
+      - name: Cache card images in repository
+        run: python tools/cache_catalogue_images.py
       - name: Validate catalogue snapshots
         run: python tools/verify_catalogue.py
       - name: Commit only validated changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add catalogue/data
+          git add catalogue/data catalogue/images
           git diff --cached --quiet || (git commit -m "Refresh catalogue card and price data" && git push origin HEAD:main)
