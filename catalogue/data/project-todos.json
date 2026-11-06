@@ -5,13 +5,13 @@
       "id": "CAT-001",
       "title": "Grand Master promo completeness",
       "status": "in_progress",
-      "details": "Initial source-confirmed promo overlay added; verify card numbers, missing stamped variants, and product links for both sets."
+      "details": "Initial 19 Celebration and 5 Delta promotional placeholders indexed; official card numbering, product IDs, pricing and full promotional coverage still require verification."
     },
     {
       "id": "CAT-002",
       "title": "Delta Reign artwork",
-      "status": "blocked",
-      "details": "Image sources have limited availability before November 6 release; retry caching and verify each artwork."
+      "status": "in_progress",
+      "details": "141 Delta Reign card records still use external artwork; image cache has not succeeded. CDN fallback and placeholders improved, but actual artwork remains unresolved."
     },
     {
       "id": "CAT-003",
@@ -72,6 +72,18 @@
       "title": "Image fallback handling",
       "status": "completed",
       "details": "Alternative endpoints and graceful placeholders added; artwork availability remains tracked separately."
+    },
+    {
+      "id": "CAT-013",
+      "title": "Sidebar build version and settings consolidation",
+      "status": "completed",
+      "details": "Sidebar displays green price-pull timestamp and latest main commit/date; tools are in Settings."
+    },
+    {
+      "id": "CAT-014",
+      "title": "Image availability diagnostic and asset verification",
+      "status": "todo",
+      "details": "Verify artwork requests in a real browser, identify correct source/CDN, cache actual Delta Reign images and add automated image integrity checks."
     }
   ]
 }
