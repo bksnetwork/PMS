@@ -1,1 +1,2609 @@
-{"id": "delta-reign", "name": "ME06: Delta Reign", "updated": "2026-11-06T03:32:04.156141+00:00", "cards": [{"pid": 726510, "name": "Masquerain 003 103", "num": "003/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726510_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.58}, {"t": "Normal", "m": 0.37}]}, {"pid": 726511, "name": "Virizion", "num": "009/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726511_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.27}, {"t": "Normal", "m": 0.25}]}, {"pid": 726512, "name": "Mega Golisopod ex 011 103", "num": "011/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726512_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 3.63}]}, {"pid": 726513, "name": "Sprigatito 012 103", "num": "012/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726513_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.4}]}, {"pid": 726514, "name": "Floragato", "num": "013/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726514_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": null}, {"t": "Reverse Holofoil", "m": 0.28}]}, {"pid": 726515, "name": "Meowscarada ex", "num": "014/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726515_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 0.94}]}, {"pid": 726516, "name": "Growlithe 018 103", "num": "018/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726516_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.25}]}, {"pid": 726517, "name": "Arcanine", "num": "019/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726517_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Holofoil", "m": 0.24}]}, {"pid": 726518, "name": "Heat Rotom ex 023 103", "num": "023/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726518_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 0.83}]}, {"pid": 726519, "name": "Kyogre", "num": "026/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726519_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 0.49}, {"t": "Reverse Holofoil", "m": null}]}, {"pid": 726520, "name": "Wishiwashi ex 029 103", "num": "029/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726520_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 2.9}]}, {"pid": 726521, "name": "Electivire 031 103", "num": "031/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726521_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.27}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 726522, "name": "Jolteon", "num": "032/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726522_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.59}, {"t": "Normal", "m": 0.3}]}, {"pid": 726523, "name": "Raikou ex 033 103", "num": "033/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726523_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 1.57}]}, {"pid": 726524, "name": "Thundurus", "num": "035/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726524_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": null}, {"t": "Normal", "m": 0.25}]}, {"pid": 726525, "name": "Pincurchin 036 103", "num": "036/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726525_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.29}]}, {"pid": 726526, "name": "Hypno", "num": "044/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726526_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": null}]}, {"pid": 726527, "name": "Giratina", "num": "045/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726527_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 1.36}, {"t": "Reverse Holofoil", "m": 1.5}]}, {"pid": 726528, "name": "Mega Golurk ex 047 103", "num": "047/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726528_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 2.23}]}, {"pid": 726529, "name": "Groudon", "num": "053/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726529_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Holofoil", "m": 0.39}]}, {"pid": 726530, "name": "Landorus", "num": "054/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726530_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.25}]}, {"pid": 726531, "name": "Nidoran F", "num": "055/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726531_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.34}, {"t": "Reverse Holofoil", "m": 0.4}]}, {"pid": 726532, "name": "Spinarak", "num": "058/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726532_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.67}]}, {"pid": 726533, "name": "Sableye", "num": "060/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726533_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 2.13}, {"t": "Normal", "m": 0.25}]}, {"pid": 726534, "name": "Mega Malamar ex 069 103", "num": "069/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726534_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 3.56}]}, {"pid": 726535, "name": "Morpeko", "num": "070/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726535_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.28}, {"t": "Normal", "m": 0.27}]}, {"pid": 726536, "name": "Zarude", "num": "071/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726536_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": null}, {"t": "Normal", "m": 0.25}]}, {"pid": 726537, "name": "Druddigon", "num": "072/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726537_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.25}, {"t": "Normal", "m": 0.25}]}, {"pid": 726538, "name": "Kommo o", "num": "075/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726538_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 0.37}, {"t": "Reverse Holofoil", "m": 1.49}]}, {"pid": 726539, "name": "Eevee", "num": "078/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726539_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.26}, {"t": "Reverse Holofoil", "m": 2.0}]}, {"pid": 726540, "name": "Delibird", "num": "079/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726540_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.4}]}, {"pid": 726541, "name": "Azurill", "num": "080/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726541_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Normal", "m": 0.25}]}, {"pid": 726542, "name": "Kecleon", "num": "083/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726542_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 726543, "name": "Mega Rayquaza ex", "num": "084/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726543_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 15.42}]}, {"pid": 726544, "name": "Tornadus", "num": "085/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726544_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.25}]}, {"pid": 726545, "name": "Aarune 089 103", "num": "089/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726545_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 1.31}, {"t": "Normal", "m": 1.1}]}, {"pid": 726546, "name": "Adventure Lantern", "num": "090/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726546_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 2.09}, {"t": "Normal", "m": 0.78}]}, {"pid": 726547, "name": "Custom Vest", "num": "091/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726547_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": null}, {"t": "Normal", "m": 0.4}]}, {"pid": 726548, "name": "Emcees Hype", "num": "092/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726548_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.24}, {"t": "Reverse Holofoil", "m": null}]}, {"pid": 726549, "name": "Grisham", "num": "093/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726549_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Normal", "m": 0.23}]}, {"pid": 726550, "name": "Legendary Pyroduct 094 103 Left", "num": "094/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726550_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 1.99}]}, {"pid": 726551, "name": "Legendary Summit 096 103 Left", "num": "096/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726551_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.47}]}, {"pid": 726552, "name": "Legendary Trench 099 103 Right", "num": "099/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726552_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 1.66}]}, {"pid": 726553, "name": "Mega Rayquaza Cap", "num": "100/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726553_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.71}, {"t": "Reverse Holofoil", "m": 0.9}]}, {"pid": 726554, "name": "Tasty Rice Ball", "num": "101/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726554_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Normal", "m": 0.35}]}, {"pid": 726555, "name": "Tate and Lizas Training", "num": "102/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726555_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 726556, "name": "Zinnias Trust 103 103", "num": "103/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726556_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.43}, {"t": "Reverse Holofoil", "m": 1.92}]}, {"pid": 726557, "name": "Masquerain 104 103", "num": "104/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726557_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 10.36}]}, {"pid": 726558, "name": "Sprigatito 105 103", "num": "105/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726558_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 14.64}]}, {"pid": 726559, "name": "Growlithe 106 103", "num": "106/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726559_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 19.18}]}, {"pid": 726560, "name": "Magmortar 107 103", "num": "107/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726560_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 6.58}]}, {"pid": 726561, "name": "Pincurchin 109 103", "num": "109/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726561_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 13.5}]}, {"pid": 726562, "name": "Enamorus 110 103", "num": "110/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726562_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 4.25}]}, {"pid": 726563, "name": "Groudon 111 103", "num": "111/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726563_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 36.12}]}, {"pid": 726564, "name": "Zorua 112 103", "num": "112/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726564_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 11.91}]}, {"pid": 726565, "name": "Eevee 114 103", "num": "114/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726565_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 37.39}]}, {"pid": 726566, "name": "Azurill 115 103", "num": "115/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726566_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 11.02}]}, {"pid": 726567, "name": "Kecleon 117 103", "num": "117/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726567_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 29.13}]}, {"pid": 726568, "name": "Aarune 125 103", "num": "125/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726568_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": null}]}, {"pid": 726569, "name": "Adventure Lantern 126 103", "num": "126/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726569_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 7.18}]}, {"pid": 726570, "name": "Custom Vest 127 103", "num": "127/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726570_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 2.47}]}, {"pid": 726571, "name": "Emcees Hype 128 103", "num": "128/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726571_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": null}]}, {"pid": 726572, "name": "Tate and Lizas Training 130 103", "num": "130/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726572_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 7.28}]}, {"pid": 726573, "name": "Zinnias Trust 131 103", "num": "131/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726573_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 13.28}]}, {"pid": 726574, "name": "Raikou ex", "num": "136/103", "rarity": "Special Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726574_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": null}]}, {"pid": 726575, "name": "Aarune 139 103", "num": "139/103", "rarity": "Special Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726575_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 13.35}]}, {"pid": 726576, "name": "Zinnias Trust 140 103", "num": "140/103", "rarity": "Special Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726576_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 74.94}]}, {"pid": 726721, "name": "Legendary Summit 097 103 Right", "num": "097/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726721_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.39}]}, {"pid": 726722, "name": "Legendary Pyroduct 095 103 Right", "num": "095/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726722_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 2.02}]}, {"pid": 726786, "name": "Legendary Trench 098 103 Left", "num": "098/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/726786_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 1.99}]}, {"pid": 727563, "name": "Heracross", "num": "001/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727563_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": null}, {"t": "Normal", "m": 0.25}]}, {"pid": 727564, "name": "Surskit", "num": "002/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727564_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.45}, {"t": "Reverse Holofoil", "m": 0.25}]}, {"pid": 727565, "name": "Cacnea", "num": "004/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727565_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.4}]}, {"pid": 727566, "name": "Cacturne", "num": "005/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727566_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Holofoil", "m": 0.37}]}, {"pid": 727567, "name": "Combee", "num": "006/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727567_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.38}, {"t": "Reverse Holofoil", "m": 0.4}]}, {"pid": 727568, "name": "Vespiquen", "num": "007/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727568_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.34}, {"t": "Reverse Holofoil", "m": 0.26}]}, {"pid": 727569, "name": "Shaymin", "num": "008/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727569_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 727570, "name": "Wimpod", "num": "010/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727570_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.29}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 727571, "name": "Smoliv", "num": "015/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727571_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.24}, {"t": "Normal", "m": 0.22}]}, {"pid": 727572, "name": "Dolliv", "num": "016/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727572_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.21}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 727573, "name": "Arboliva", "num": "017/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727573_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.3}, {"t": "Normal", "m": 0.25}]}, {"pid": 727574, "name": "Magmar", "num": "020/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727574_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.25}]}, {"pid": 727575, "name": "Magmortar", "num": "021/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727575_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 0.38}, {"t": "Reverse Holofoil", "m": 1.49}]}, {"pid": 727576, "name": "Torkoal", "num": "022/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727576_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 727577, "name": "Heatmor", "num": "024/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727577_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 727578, "name": "Mantine", "num": "025/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727578_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Normal", "m": 0.33}]}, {"pid": 727579, "name": "Frillish", "num": "027/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727579_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.33}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 727580, "name": "Jellicent", "num": "028/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727580_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.4}, {"t": "Reverse Holofoil", "m": 0.95}]}, {"pid": 727581, "name": "Electabuzz", "num": "030/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727581_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.25}]}, {"pid": 727582, "name": "Rotom", "num": "034/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727582_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.27}, {"t": "Normal", "m": 0.25}]}, {"pid": 727583, "name": "Pawmi", "num": "037/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727583_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.27}, {"t": "Reverse Holofoil", "m": 0.37}]}, {"pid": 727584, "name": "Pawmo", "num": "038/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727584_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.3}, {"t": "Reverse Holofoil", "m": 0.4}]}, {"pid": 727585, "name": "Pawmot", "num": "039/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727585_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.27}]}, {"pid": 727586, "name": "Wattrel", "num": "040/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727586_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.28}, {"t": "Reverse Holofoil", "m": 0.32}]}, {"pid": 727587, "name": "Electivire", "num": "108/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727587_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 7.64}]}, {"pid": 727588, "name": "Mega Golisopod ex 118 103", "num": "118/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727588_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 6.6}]}, {"pid": 727589, "name": "Heat Rotom ex", "num": "119/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727589_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 1.98}]}, {"pid": 727590, "name": "Wishiwashi ex", "num": "120/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727590_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": null}]}, {"pid": 727591, "name": "Raikou ex 121 103", "num": "121/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727591_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 0.37}]}, {"pid": 727592, "name": "Mega Golisopod ex 135 103", "num": "135/103", "rarity": "Special Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/727592_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": null}]}, {"pid": 728021, "name": "Kilowattrel", "num": "041/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728021_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.27}]}, {"pid": 728022, "name": "Miraidon", "num": "042/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728022_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": null}]}, {"pid": 728023, "name": "Drowzee", "num": "043/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728023_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.25}]}, {"pid": 728024, "name": "Golett", "num": "046/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728024_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.37}, {"t": "Reverse Holofoil", "m": 0.4}]}, {"pid": 728025, "name": "Enamorus", "num": "048/103", "rarity": "Uncommon", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728025_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 728026, "name": "Sandshrew", "num": "049/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728026_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.27}]}, {"pid": 728027, "name": "Sandslash", "num": "050/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728027_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.27}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 728028, "name": "Onix", "num": "051/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728028_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.28}]}, {"pid": 728029, "name": "Steelix", "num": "052/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728029_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 0.36}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 728031, "name": "Nidorina", "num": "056/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728031_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.27}, {"t": "Normal", "m": 0.25}]}, {"pid": 728032, "name": "Nidoqueen", "num": "057/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728032_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 1.99}, {"t": "Holofoil", "m": 0.38}]}, {"pid": 728033, "name": "Ariados", "num": "059/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728033_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": null}, {"t": "Normal", "m": 0.24}]}, {"pid": 728034, "name": "Carvanha", "num": "061/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728034_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.29}, {"t": "Reverse Holofoil", "m": 0.25}]}, {"pid": 728035, "name": "Sharpedo", "num": "062/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728035_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.28}]}, {"pid": 728036, "name": "Darkrai", "num": "063/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728036_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.33}, {"t": "Reverse Holofoil", "m": 0.55}]}, {"pid": 728037, "name": "Purrloin", "num": "064/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728037_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.25}, {"t": "Normal", "m": 0.25}]}, {"pid": 728038, "name": "Liepard", "num": "065/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728038_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": null}]}, {"pid": 728039, "name": "Zorua", "num": "066/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728039_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.38}, {"t": "Normal", "m": 0.32}]}, {"pid": 728040, "name": "Zoroark ex", "num": "067/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728040_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 0.72}]}, {"pid": 728041, "name": "Inkay 068 103", "num": "068/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728041_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Normal", "m": 0.36}]}, {"pid": 728042, "name": "Jangmo o", "num": "073/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728042_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.2}, {"t": "Reverse Holofoil", "m": null}]}, {"pid": 728043, "name": "Hakamo o", "num": "074/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728043_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.2}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 728044, "name": "Cyclizar", "num": "076/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728044_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.4}]}, {"pid": 728045, "name": "Tauros", "num": "077/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728045_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.39}]}, {"pid": 728046, "name": "Swablu", "num": "081/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728046_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.25}, {"t": "Normal", "m": 0.34}]}, {"pid": 728047, "name": "Altaria 082 103", "num": "082/103", "rarity": "Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728047_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.4}, {"t": "Holofoil", "m": 0.49}]}, {"pid": 728048, "name": "Fletchling", "num": "086/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728048_200w.jpg", "role": "main", "prints": [{"t": "Reverse Holofoil", "m": 0.39}, {"t": "Normal", "m": 0.34}]}, {"pid": 728049, "name": "Fletchinder", "num": "087/103", "rarity": "Common", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728049_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": 0.25}, {"t": "Reverse Holofoil", "m": 0.25}]}, {"pid": 728050, "name": "Talonflame ex 088 103", "num": "088/103", "rarity": "Double Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728050_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 7.76}]}, {"pid": 728051, "name": "Inkay 113 103", "num": "113/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728051_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 4.75}]}, {"pid": 728052, "name": "Altaria 116 103", "num": "116/103", "rarity": "Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728052_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 21.05}]}, {"pid": 728053, "name": "Mega Golurk ex 122 103", "num": "122/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728053_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 11.25}]}, {"pid": 728054, "name": "Mega Malamar ex", "num": "123/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728054_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 3.98}]}, {"pid": 728055, "name": "Talonflame ex 124 103", "num": "124/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728055_200w.jpg", "role": "main", "prints": [{"t": "Normal", "m": null}]}, {"pid": 728056, "name": "Pokemon Catcher", "num": "129/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728056_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 7.25}]}, {"pid": 728057, "name": "Bubbly W Energy", "num": "132/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728057_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 3.61}]}, {"pid": 728058, "name": "Growing G Energy", "num": "133/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728058_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 7.96}]}, {"pid": 728059, "name": "Nitro R Energy", "num": "134/103", "rarity": "Ultra Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728059_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 19.0}]}, {"pid": 728060, "name": "Mega Golurk ex 137 103", "num": "137/103", "rarity": "Special Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728060_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 49.99}]}, {"pid": 728061, "name": "Mega Rayquaza ex 138 103", "num": "138/103", "rarity": "Special Illustration Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728061_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": 397.94}]}, {"pid": 728062, "name": "Mega Rayquaza ex 141 103", "num": "141/103", "rarity": "Mega Hyper Rare", "img": "https://tcgplayer-cdn.tcgplayer.com/product/728062_200w.jpg", "role": "main", "prints": [{"t": "Holofoil", "m": null}]}]}
+{
+  "id": "delta-reign",
+  "name": "ME06: Delta Reign",
+  "updated": "2026-11-06T03:43:50.286848+00:00",
+  "cards": [
+    {
+      "pid": 726510,
+      "name": "Masquerain 003 103",
+      "num": "003/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726510.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.58
+        },
+        {
+          "t": "Normal",
+          "m": 0.37
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-003.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726511,
+      "name": "Virizion",
+      "num": "009/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726511.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.27
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050453_P_BIRIJION.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726512,
+      "name": "Mega Golisopod ex 011 103",
+      "num": "011/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/726512.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 3.63
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-011.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726513,
+      "name": "Sprigatito 012 103",
+      "num": "012/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726513.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050454_P_NIXYAOHA.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726514,
+      "name": "Floragato",
+      "num": "013/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726514.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": null
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.28
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050455_P_NIXYAROTE.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726515,
+      "name": "Meowscarada ex",
+      "num": "014/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/726515.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 0.94
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050456_P_MASUKANIXYAIEKKUSU.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726516,
+      "name": "Growlithe 018 103",
+      "num": "018/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726516.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-010.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726517,
+      "name": "Arcanine",
+      "num": "019/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/726517.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Holofoil",
+          "m": 0.24
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-011.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726518,
+      "name": "Heat Rotom ex 023 103",
+      "num": "023/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/726518.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 0.83
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-023.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726519,
+      "name": "Kyogre",
+      "num": "026/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/726519.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 0.49
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-018.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726520,
+      "name": "Wishiwashi ex 029 103",
+      "num": "029/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/726520.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 2.9
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-021.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726521,
+      "name": "Electivire 031 103",
+      "num": "031/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726521.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.27
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-031.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726522,
+      "name": "Jolteon",
+      "num": "032/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726522.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.59
+        },
+        {
+          "t": "Normal",
+          "m": 0.3
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050412_P_SANDASU.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726523,
+      "name": "Raikou ex 033 103",
+      "num": "033/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/726523.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 1.57
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-024.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726524,
+      "name": "Thundurus",
+      "num": "035/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726524.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-035.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726525,
+      "name": "Pincurchin 036 103",
+      "num": "036/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726525.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.29
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-026.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726526,
+      "name": "Hypno",
+      "num": "044/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726526.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-044.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726527,
+      "name": "Giratina",
+      "num": "045/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/726527.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 1.36
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 1.5
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-031.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726528,
+      "name": "Mega Golurk ex 047 103",
+      "num": "047/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/726528.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 2.23
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-047.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726529,
+      "name": "Groudon",
+      "num": "053/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/726529.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-053.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726530,
+      "name": "Landorus",
+      "num": "054/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726530.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-054.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726531,
+      "name": "Nidoran F",
+      "num": "055/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726531.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.34
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-041.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726532,
+      "name": "Spinarak",
+      "num": "058/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726532.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.67
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-058.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726533,
+      "name": "Sableye",
+      "num": "060/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726533.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 2.13
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-046.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726534,
+      "name": "Mega Malamar ex 069 103",
+      "num": "069/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/726534.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 3.56
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-069.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726535,
+      "name": "Morpeko",
+      "num": "070/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726535.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.28
+        },
+        {
+          "t": "Normal",
+          "m": 0.27
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050439_P_MORUPEKO.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726536,
+      "name": "Zarude",
+      "num": "071/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726536.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050440_P_ZARUDO.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726537,
+      "name": "Druddigon",
+      "num": "072/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726537.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-072.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726538,
+      "name": "Kommo o",
+      "num": "075/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/726538.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 0.37
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 1.49
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-075.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726539,
+      "name": "Eevee",
+      "num": "078/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726539.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.26
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 2.0
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050419_P_IBUI.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726540,
+      "name": "Delibird",
+      "num": "079/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726540.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-079.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726541,
+      "name": "Azurill",
+      "num": "080/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726541.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-054.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726542,
+      "name": "Kecleon",
+      "num": "083/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726542.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-083.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726543,
+      "name": "Mega Rayquaza ex",
+      "num": "084/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/726543.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 15.42
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-084.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726544,
+      "name": "Tornadus",
+      "num": "085/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726544.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-085.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726545,
+      "name": "Aarune 089 103",
+      "num": "089/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726545.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 1.31
+        },
+        {
+          "t": "Normal",
+          "m": 1.1
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-068.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726546,
+      "name": "Adventure Lantern",
+      "num": "090/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726546.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 2.09
+        },
+        {
+          "t": "Normal",
+          "m": 0.78
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-090.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726547,
+      "name": "Custom Vest",
+      "num": "091/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726547.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        },
+        {
+          "t": "Normal",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-065.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726548,
+      "name": "Emcees Hype",
+      "num": "092/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726548.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.24
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-067.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726549,
+      "name": "Grisham",
+      "num": "093/103",
+      "rarity": "Uncommon",
+      "img": "https://tcgplayer-cdn.tcgplayer.com/product/726549_200w.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Normal",
+          "m": 0.23
+        }
+      ]
+    },
+    {
+      "pid": 726550,
+      "name": "Legendary Pyroduct 094 103 Left",
+      "num": "094/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726550.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 1.99
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-094.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726551,
+      "name": "Legendary Summit 096 103 Left",
+      "num": "096/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726551.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.47
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-096.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726552,
+      "name": "Legendary Trench 099 103 Right",
+      "num": "099/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726552.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 1.66
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-072.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726553,
+      "name": "Mega Rayquaza Cap",
+      "num": "100/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726553.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.71
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.9
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-066.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726554,
+      "name": "Tasty Rice Ball",
+      "num": "101/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/726554.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Normal",
+          "m": 0.35
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-063.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726555,
+      "name": "Tate and Lizas Training",
+      "num": "102/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726555.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-070.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726556,
+      "name": "Zinnias Trust 103 103",
+      "num": "103/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726556.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.43
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 1.92
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-103.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726557,
+      "name": "Masquerain 104 103",
+      "num": "104/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726557.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 10.36
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-077.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726558,
+      "name": "Sprigatito 105 103",
+      "num": "105/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726558.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 14.64
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050469_P_NIXYAOHA.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726559,
+      "name": "Growlithe 106 103",
+      "num": "106/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726559.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 19.18
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-078.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726560,
+      "name": "Magmortar 107 103",
+      "num": "107/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726560.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 6.58
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-079.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726561,
+      "name": "Pincurchin 109 103",
+      "num": "109/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726561.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 13.5
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-082.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726562,
+      "name": "Enamorus 110 103",
+      "num": "110/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726562.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 4.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-110.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726563,
+      "name": "Groudon 111 103",
+      "num": "111/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726563.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 36.12
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-084.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726564,
+      "name": "Zorua 112 103",
+      "num": "112/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726564.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 11.91
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050451_P_ZOROA.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726565,
+      "name": "Eevee 114 103",
+      "num": "114/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726565.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 37.39
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050431_P_IBUI.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726566,
+      "name": "Azurill 115 103",
+      "num": "115/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726566.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 11.02
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-086.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726567,
+      "name": "Kecleon 117 103",
+      "num": "117/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/726567.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 29.13
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-088.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726568,
+      "name": "Aarune 125 103",
+      "num": "125/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/726568.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-101.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726569,
+      "name": "Adventure Lantern 126 103",
+      "num": "126/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/726569.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 7.18
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-097.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726570,
+      "name": "Custom Vest 127 103",
+      "num": "127/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/726570.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 2.47
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-099.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726571,
+      "name": "Emcees Hype 128 103",
+      "num": "128/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/726571.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-100.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726572,
+      "name": "Tate and Lizas Training 130 103",
+      "num": "130/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/726572.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 7.28
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-103.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726573,
+      "name": "Zinnias Trust 131 103",
+      "num": "131/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/726573.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 13.28
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-102.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726574,
+      "name": "Raikou ex",
+      "num": "136/103",
+      "rarity": "Special Illustration Rare",
+      "img": "images/delta-reign/726574.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-108.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726575,
+      "name": "Aarune 139 103",
+      "num": "139/103",
+      "rarity": "Special Illustration Rare",
+      "img": "images/delta-reign/726575.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 13.35
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-139.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726576,
+      "name": "Zinnias Trust 140 103",
+      "num": "140/103",
+      "rarity": "Special Illustration Rare",
+      "img": "images/delta-reign/726576.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 74.94
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-112.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726721,
+      "name": "Legendary Summit 097 103 Right",
+      "num": "097/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726721.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-097.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726722,
+      "name": "Legendary Pyroduct 095 103 Right",
+      "num": "095/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726722.png",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 2.02
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-en-095.png?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 726786,
+      "name": "Legendary Trench 098 103 Left",
+      "num": "098/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/726786.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 1.99
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-071.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727563,
+      "name": "Heracross",
+      "num": "001/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727563.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-001.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727564,
+      "name": "Surskit",
+      "num": "002/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727564.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.45
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-002.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727565,
+      "name": "Cacnea",
+      "num": "004/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727565.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-004.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727566,
+      "name": "Cacturne",
+      "num": "005/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/727566.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Holofoil",
+          "m": 0.37
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-005.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727567,
+      "name": "Combee",
+      "num": "006/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727567.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.38
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-006.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727568,
+      "name": "Vespiquen",
+      "num": "007/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727568.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.34
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.26
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-007.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727569,
+      "name": "Shaymin",
+      "num": "008/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/727569.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050452_P_SHIEIMI.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727570,
+      "name": "Wimpod",
+      "num": "010/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727570.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.29
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-008.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727571,
+      "name": "Smoliv",
+      "num": "015/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727571.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.24
+        },
+        {
+          "t": "Normal",
+          "m": 0.22
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050457_P_MINIBU.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727572,
+      "name": "Dolliv",
+      "num": "016/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727572.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.21
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050458_P_ORINIXYO.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727573,
+      "name": "Arboliva",
+      "num": "017/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/727573.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.3
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEM/050459_P_ORIA.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727574,
+      "name": "Magmar",
+      "num": "020/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/727574.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-012.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727575,
+      "name": "Magmortar",
+      "num": "021/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/727575.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 0.38
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 1.49
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-013.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727576,
+      "name": "Torkoal",
+      "num": "022/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727576.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-014.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727577,
+      "name": "Heatmor",
+      "num": "024/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727577.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-016.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727578,
+      "name": "Mantine",
+      "num": "025/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727578.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Normal",
+          "m": 0.33
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-017.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727579,
+      "name": "Frillish",
+      "num": "027/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727579.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.33
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-019.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727580,
+      "name": "Jellicent",
+      "num": "028/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/727580.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.4
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.95
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-020.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727581,
+      "name": "Electabuzz",
+      "num": "030/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727581.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-022.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727582,
+      "name": "Rotom",
+      "num": "034/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727582.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.27
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050413_P_ROTOMU.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727583,
+      "name": "Pawmi",
+      "num": "037/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727583.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.27
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.37
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050414_P_PAMO.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727584,
+      "name": "Pawmo",
+      "num": "038/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727584.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.3
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050415_P_PAMOTTO.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727585,
+      "name": "Pawmot",
+      "num": "039/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/727585.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.27
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050416_P_PAMOTTO.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727586,
+      "name": "Wattrel",
+      "num": "040/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/727586.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.28
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.32
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-027.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727587,
+      "name": "Electivire",
+      "num": "108/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/727587.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 7.64
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-081.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727588,
+      "name": "Mega Golisopod ex 118 103",
+      "num": "118/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/727588.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 6.6
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-089.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727589,
+      "name": "Heat Rotom ex",
+      "num": "119/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/727589.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 1.98
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-090.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727590,
+      "name": "Wishiwashi ex",
+      "num": "120/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/727590.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-091.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727591,
+      "name": "Raikou ex 121 103",
+      "num": "121/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/727591.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 0.37
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-092.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 727592,
+      "name": "Mega Golisopod ex 135 103",
+      "num": "135/103",
+      "rarity": "Special Illustration Rare",
+      "img": "images/delta-reign/727592.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-107.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728021,
+      "name": "Kilowattrel",
+      "num": "041/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728021.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.27
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-028.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728022,
+      "name": "Miraidon",
+      "num": "042/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/728022.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050417_P_MIRAIDON.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728023,
+      "name": "Drowzee",
+      "num": "043/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728023.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-029.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728024,
+      "name": "Golett",
+      "num": "046/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728024.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.37
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-032.jpg?width=350",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728025,
+      "name": "Enamorus",
+      "num": "048/103",
+      "rarity": "Uncommon",
+      "img": "images/delta-reign/728025.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-034.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728026,
+      "name": "Sandshrew",
+      "num": "049/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728026.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.27
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-035.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728027,
+      "name": "Sandslash",
+      "num": "050/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728027.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.27
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-036.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728028,
+      "name": "Onix",
+      "num": "051/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728028.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.28
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-037.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728029,
+      "name": "Steelix",
+      "num": "052/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/728029.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 0.36
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-038.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728031,
+      "name": "Nidorina",
+      "num": "056/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728031.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.27
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-042.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728032,
+      "name": "Nidoqueen",
+      "num": "057/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/728032.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 1.99
+        },
+        {
+          "t": "Holofoil",
+          "m": 0.38
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-043.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728033,
+      "name": "Ariados",
+      "num": "059/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728033.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        },
+        {
+          "t": "Normal",
+          "m": 0.24
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-045.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728034,
+      "name": "Carvanha",
+      "num": "061/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728034.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.29
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050432_P_KIBANIA.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728035,
+      "name": "Sharpedo",
+      "num": "062/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728035.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.28
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050433_P_SAMEHADA.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728036,
+      "name": "Darkrai",
+      "num": "063/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728036.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.33
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.55
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050434_P_DAKURAI.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728037,
+      "name": "Purrloin",
+      "num": "064/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728037.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        },
+        {
+          "t": "Normal",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050435_P_CHIXYORONEKO.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728038,
+      "name": "Liepard",
+      "num": "065/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728038.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050436_P_REPARUDASU.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728039,
+      "name": "Zorua",
+      "num": "066/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728039.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.38
+        },
+        {
+          "t": "Normal",
+          "m": 0.32
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050437_P_ZOROA.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728040,
+      "name": "Zoroark ex",
+      "num": "067/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/728040.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 0.72
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEZ/050438_P_ZOROAKUIEKKUSU.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728041,
+      "name": "Inkay 068 103",
+      "num": "068/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728041.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Normal",
+          "m": 0.36
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-047.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728042,
+      "name": "Jangmo o",
+      "num": "073/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728042.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.2
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-050.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728043,
+      "name": "Hakamo o",
+      "num": "074/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728043.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.2
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-051.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728044,
+      "name": "Cyclizar",
+      "num": "076/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728044.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-053.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728045,
+      "name": "Tauros",
+      "num": "077/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728045.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        }
+      ],
+      "sourceImage": "https://www.pokemon-card.com/assets/images/card_images/large/MEE/050418_P_KENTAROSU.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728046,
+      "name": "Swablu",
+      "num": "081/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728046.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        },
+        {
+          "t": "Normal",
+          "m": 0.34
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-055.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728047,
+      "name": "Altaria 082 103",
+      "num": "082/103",
+      "rarity": "Rare",
+      "img": "images/delta-reign/728047.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.4
+        },
+        {
+          "t": "Holofoil",
+          "m": 0.49
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-056.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728048,
+      "name": "Fletchling",
+      "num": "086/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728048.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.39
+        },
+        {
+          "t": "Normal",
+          "m": 0.34
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-060.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728049,
+      "name": "Fletchinder",
+      "num": "087/103",
+      "rarity": "Common",
+      "img": "images/delta-reign/728049.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": 0.25
+        },
+        {
+          "t": "Reverse Holofoil",
+          "m": 0.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-061.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728050,
+      "name": "Talonflame ex 088 103",
+      "num": "088/103",
+      "rarity": "Double Rare",
+      "img": "images/delta-reign/728050.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 7.76
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-062.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728051,
+      "name": "Inkay 113 103",
+      "num": "113/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/728051.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 4.75
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-085.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728052,
+      "name": "Altaria 116 103",
+      "num": "116/103",
+      "rarity": "Illustration Rare",
+      "img": "images/delta-reign/728052.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 21.05
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-087.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728053,
+      "name": "Mega Golurk ex 122 103",
+      "num": "122/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/728053.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 11.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-093.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728054,
+      "name": "Mega Malamar ex",
+      "num": "123/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/728054.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 3.98
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-094.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728055,
+      "name": "Talonflame ex 124 103",
+      "num": "124/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/728055.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Normal",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-096.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728056,
+      "name": "Pokemon Catcher",
+      "num": "129/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/728056.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 7.25
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-098.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728057,
+      "name": "Bubbly W Energy",
+      "num": "132/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/728057.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 3.61
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-106.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728058,
+      "name": "Growing G Energy",
+      "num": "133/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/728058.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 7.96
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-104.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728059,
+      "name": "Nitro R Energy",
+      "num": "134/103",
+      "rarity": "Ultra Rare",
+      "img": "images/delta-reign/728059.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 19.0
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-105.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728060,
+      "name": "Mega Golurk ex 137 103",
+      "num": "137/103",
+      "rarity": "Special Illustration Rare",
+      "img": "images/delta-reign/728060.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 49.99
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-109.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728061,
+      "name": "Mega Rayquaza ex 138 103",
+      "num": "138/103",
+      "rarity": "Special Illustration Rare",
+      "img": "images/delta-reign/728061.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": 397.94
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-110.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    },
+    {
+      "pid": 728062,
+      "name": "Mega Rayquaza ex 141 103",
+      "num": "141/103",
+      "rarity": "Mega Hyper Rare",
+      "img": "images/delta-reign/728062.jpg",
+      "role": "main",
+      "prints": [
+        {
+          "t": "Holofoil",
+          "m": null
+        }
+      ],
+      "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/jp-storm-emeralda-113.jpg",
+      "imageSource": "https://portaltcg.co.uk/collections/delta-reign"
+    }
+  ]
+}
