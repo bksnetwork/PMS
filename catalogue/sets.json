@@ -1,0 +1,29 @@
+{
+  "category": 3,
+  "sets": [
+    {
+      "id": "30th-celebration",
+      "name": "30th Celebration (unverified mapping)",
+      "groups": [
+        {
+          "match": "30th Celebration",
+          "role": "main"
+        },
+        {
+          "match": "30th Celebration.*Classic",
+          "role": "master"
+        }
+      ]
+    },
+    {
+      "id": "delta-reign",
+      "name": "Delta Reign (unverified mapping)",
+      "groups": [
+        {
+          "match": "Delta Reign",
+          "role": "main"
+        }
+      ]
+    }
+  ]
+}
