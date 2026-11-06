@@ -32,6 +32,7 @@ jobs:
       - name: Cache card images in repository
         run: python tools/cache_catalogue_images.py
       - name: Recover Delta Reign artwork from numbered checklist
+        continue-on-error: true
         run: python tools/cache_delta_from_checklist.py
       - name: Validate catalogue snapshots
         run: python tools/verify_catalogue.py
