@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: feature/card-catalogue
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -26,4 +26,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add catalogue/data
-          git diff --cached --quiet || (git commit -m "Refresh catalogue card and price data" && git push origin HEAD:feature/card-catalogue)
+          git diff --cached --quiet || (git commit -m "Refresh catalogue card and price data" && git push origin HEAD:main)
