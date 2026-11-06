@@ -31,17 +31,26 @@ def cache():
             filename=str(card["pid"])+".jpg"
             target=folder/filename
             if not target.exists():
-                try:
-                    req=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0 CardCatalogueImageCache/1.0"})
-                    with urllib.request.urlopen(req,timeout=20) as response:
-                        typ=response.headers.get("Content-Type","")
-                        if not typ.startswith("image/"): continue
-                        payload=response.read(MAX_BYTES+1)
-                    if len(payload)>MAX_BYTES or len(payload)<100: continue
-                    target.write_bytes(payload)
-                    changed+=1
-                except Exception as exc:
-                    print("Image skipped",card["pid"],str(exc)[:90])
+                candidates=[
+                    url,
+                    f'https://product-images.tcgplayer.com/fit-in/437x437/{card["pid"]}.jpg',
+                    f'https://tcgplayer-cdn.tcgplayer.com/product/{card["pid"]}_in_1000x1000.jpg',
+                ]
+                for candidate in candidates:
+                    try:
+                        req=urllib.request.Request(candidate,headers={"User-Agent":"Mozilla/5.0"})
+                        with urllib.request.urlopen(req,timeout=15) as response:
+                            typ=response.headers.get("Content-Type","")
+                            if not typ.startswith("image/"): continue
+                            payload=response.read(MAX_BYTES+1)
+                        if len(payload)>MAX_BYTES or len(payload)<100: continue
+                        target.write_bytes(payload)
+                        changed+=1
+                        break
+                    except Exception as exc:
+                        print("Image endpoint failed",card["pid"],str(exc)[:70])
+                if not target.exists():
+                    print("No image available for",card["pid"])
                     continue
                 time.sleep(.05)
             card["sourceImage"]=url
