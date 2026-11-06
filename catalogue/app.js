@@ -59,6 +59,11 @@ $('viewer').addEventListener('touchend',e=>{if(touchStart===null||!e.changedTouc
 window.addEventListener('catalogue-auth',e=>{canEdit=Boolean(e.detail.canEdit);if(!canEdit){collection={};}else{try{collection=cleanCollection(JSON.parse(localStorage.getItem(store)||'{}'));}catch{collection={};}}render();});
 window.addEventListener('catalogue-cloud-load',e=>{if(!canEdit)return;try{collection=cleanCollection(e.detail.collection);localStorage.setItem(store,JSON.stringify(collection));render();}catch(err){console.error('Invalid cloud collection',err);}});
 $('refresh-prices').addEventListener('click',async()=>{const b=$('refresh-prices');b.disabled=true;b.textContent='Checking published prices…';try{await init(true);}finally{b.disabled=false;b.innerHTML='<span>↻</span> Check for updated prices';}});
+const buildLabel=$('build-version');
+fetch('https://api.github.com/repos/bksnetwork/PMS/commits/main',{headers:{Accept:'application/vnd.github+json'},cache:'no-store'})
+ .then(r=>{if(!r.ok)throw Error('Version unavailable');return r.json();})
+ .then(commit=>{const date=commit.commit?.committer?.date||commit.commit?.author?.date;const short=String(commit.sha||'').slice(0,8);buildLabel.textContent='Build: '+(date?new Date(date).toLocaleDateString():'unknown date')+' · '+short;buildLabel.title='Latest main commit · '+String(commit.sha||'');})
+ .catch(()=>{buildLabel.textContent='Build: 2026-11-05 · GitHub unavailable';});
 const sidebar=$('sidebar'),scrim=$('scrim');
 function openSettings(){closeMenu();$('gallery').hidden=true;$('settings-page').hidden=false;document.querySelector('.crumb strong').textContent='SETTINGS';window.scrollTo(0,0);}
 function closeSettings(){$('settings-page').hidden=true;$('gallery').hidden=false;document.querySelector('.crumb strong').textContent='THE CARD CATALOGUE';window.scrollTo(0,0);}
