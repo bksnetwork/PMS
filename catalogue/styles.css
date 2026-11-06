@@ -25,3 +25,5 @@
 @media(max-width:560px){.estimate-options{gap:10px;padding:10px}.estimate-options button{width:100%}.exclude-control{font-size:9px!important}}
 
 .price-sync{border-top:1px solid #293142;padding-top:15px;margin-top:15px}.price-sync .side-heading{margin-bottom:3px}.price-sync .side-hint{line-height:1.5}.price-sync .side-link{font-size:12px;padding:10px 14px}.price-sync button:disabled{opacity:.65;cursor:wait}
+
+.card-series{display:inline-block;margin-top:10px;border:1px solid #51476b;border-radius:6px;padding:4px 7px;background:#2c2944;color:#cbb6ff;font-size:10px;font-weight:800;letter-spacing:.2px}.cards{scroll-margin-top:22px}
