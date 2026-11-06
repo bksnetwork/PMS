@@ -1,0 +1,42 @@
+{
+  "source": "https://tcgcsv.com/tcgplayer/3/groups",
+  "candidates": {
+    "30th-celebrations": [
+      {
+        "groupId": 24722,
+        "name": "ME: 30th Celebration"
+      },
+      {
+        "groupId": 24837,
+        "name": "ME: 30th Celebration Classic Collection"
+      },
+      {
+        "groupId": 2867,
+        "name": "Celebrations"
+      },
+      {
+        "groupId": 2931,
+        "name": "Celebrations: Classic Collection"
+      },
+      {
+        "groupId": 2782,
+        "name": "McDonald's 25th Anniversary Promos"
+      }
+    ],
+    "delta-reign": [
+      {
+        "groupId": 24831,
+        "name": "ME06: Delta Reign"
+      },
+      {
+        "groupId": 2807,
+        "name": "SWSH06: Chilling Reign"
+      },
+      {
+        "groupId": 1429,
+        "name": "EX Delta Species"
+      }
+    ]
+  },
+  "requiresHumanVerification": true
+}
