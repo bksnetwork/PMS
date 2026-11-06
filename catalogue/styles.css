@@ -3,3 +3,20 @@
 @media(max-width:1100px){.sidebar{width:215px}.hero-art{right:3%}.cards{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}}
 @media(max-width:850px){.sidebar{position:fixed;left:0;top:0;transform:translateX(-105%);transition:transform .2s;width:275px;box-shadow:20px 0 60px #0006}.sidebar.open{transform:translateX(0)}.scrim.show{display:block;position:fixed;inset:0;background:#0009;z-index:40}.menu-toggle{display:block}.topbar{height:64px}.hero-art{opacity:.5;right:-30px}.hero-content{max-width:75%}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.control-row{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){main{padding:18px 13px}.topbar{padding:0 15px}.crumb{font-size:9px}.desktop-only,.update-note,.view-hint,.search-help{display:none}.hero{min-height:225px;padding:24px 20px}.hero-content{max-width:95%}.hero h1{font-size:34px}.hero p{max-width:245px;font-size:11px}.hero-art{opacity:.16;right:-100px}.hero-note{display:none}.section-head{margin:27px 0 13px}.section-head h2{font-size:20px}.stats{gap:9px}.stat{padding:14px;min-height:80px}.stat strong{font-size:21px}.stat span{font-size:10px}.control-panel{padding:12px}.control-row{gap:9px}.control-field select{padding:10px 6px;font-size:11px}.cards{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.card{padding:8px}.card h3{font-size:12px}.card .muted{font-size:9px}.card label{font-size:10px}.card label input,.card label select{width:65px;padding:6px 3px;font-size:10px}.card label input[data-field=notes]{width:85px}.card>a{font-size:10px}.pagination{gap:9px}.pagination button{padding:9px 10px}}
+
+/* Public visitors can browse all cards, but editing is owner-only. */
+.edit-only{display:none!important}
+.owner-mode .edit-only{display:flex!important}
+#import,.import-label{display:none}
+.owner-mode .import-label{display:flex}
+#login[hidden],#logout[hidden]{display:none!important}
+#login-dialog{border:1px solid #5b4d83;border-radius:18px;background:#171f30;color:#f2efff;max-width:min(420px,calc(100vw - 30px));width:100%;padding:28px;box-shadow:0 20px 90px #0009}
+#login-dialog::backdrop{background:#060912cc}
+#login-form{display:flex;flex-direction:column;gap:15px}
+#login-form h2{font:700 24px Outfit,sans-serif;margin:0}
+#login-form p{font-size:13px;color:#aeb9d1;margin:0 0 5px}
+#login-form label{display:flex;flex-direction:column;gap:7px;font-size:12px;color:#c8d1e4}
+#login-form input{padding:12px;background:#252f44;border:1px solid #52617a;border-radius:9px;color:white}
+#login-form>div{display:flex;justify-content:flex-end;gap:12px}
+#login-form button{border:1px solid #6d5d9d;border-radius:9px;padding:11px 16px;background:#3e3267;color:#fff}
+.auth-message{font-size:12px;color:#c6b4ec;position:fixed;bottom:12px;right:15px;z-index:70;max-width:360px;pointer-events:none}
