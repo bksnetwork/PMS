@@ -6,12 +6,10 @@
       "name": "ME: 30th Celebration",
       "groups": [
         {
-          "groupId": 24722,
           "match": "ME: 30th Celebration",
           "role": "main"
         },
         {
-          "groupId": 24837,
           "match": "ME: 30th Celebration Classic Collection",
           "role": "master"
         }
@@ -22,12 +20,11 @@
       "name": "ME06: Delta Reign",
       "groups": [
         {
-          "groupId": 24831,
           "match": "ME06: Delta Reign",
           "role": "main"
         }
       ]
     }
   ],
-  "grandMasterPolicy": "Official set-related promos, stamped, retailer, Pokemon Center, prerelease and other special variants require individually verified product mappings."
+  "grandMasterPolicy": "Verified promos and retailer/Pokemon Center variants must be added to the grand tier separately; not claimed complete."
 }
