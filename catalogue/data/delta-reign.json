@@ -1,7 +1,7 @@
 {
   "id": "delta-reign",
   "name": "ME06: Delta Reign",
-  "updated": "2026-11-13T16:23:31.231045+00:00",
+  "updated": "2026-11-14T15:04:50.110378+00:00",
   "cards": [
     {
       "pid": 726510,
@@ -13,11 +13,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.22
+          "m": 0.23
         },
         {
           "t": "Normal",
-          "m": 0.08
+          "m": 0.1
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-003.webp",
@@ -33,7 +33,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.13
+          "m": 0.16
         },
         {
           "t": "Normal",
@@ -53,7 +53,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.6
+          "m": 0.68
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-011.webp",
@@ -69,11 +69,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.14
+          "m": 0.15
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.22
+          "m": 0.24
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-012.webp",
@@ -93,7 +93,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.14
+          "m": 0.15
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-013.webp",
@@ -109,7 +109,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.4
+          "m": 0.41
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-014.webp",
@@ -125,11 +125,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.19
+          "m": 0.2
         },
         {
           "t": "Normal",
-          "m": 0.13
+          "m": 0.12
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-018.webp",
@@ -145,11 +145,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.19
+          "m": 0.21
         },
         {
           "t": "Holofoil",
-          "m": 0.18
+          "m": 0.16
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-019.webp",
@@ -165,7 +165,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.35
+          "m": 0.34
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-023.webp",
@@ -181,11 +181,11 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.12
+          "m": 0.14
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.18
+          "m": 0.21
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-026.webp",
@@ -201,7 +201,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.44
+          "m": 0.39
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-029.webp",
@@ -217,11 +217,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.1
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.19
+          "m": 0.22
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-031.webp",
@@ -237,11 +237,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.31
+          "m": 0.26
         },
         {
           "t": "Normal",
-          "m": 0.14
+          "m": 0.11
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-032.webp",
@@ -257,7 +257,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.49
+          "m": 0.44
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-033.webp",
@@ -273,11 +273,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.16
         },
         {
           "t": "Normal",
-          "m": 0.1
+          "m": 0.09
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-035.webp",
@@ -317,7 +317,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.2
+          "m": 0.21
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-044.webp",
@@ -333,11 +333,11 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.17
+          "m": 0.15
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.34
+          "m": 0.31
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-045.webp",
@@ -353,7 +353,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.58
+          "m": 0.51
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-047.webp",
@@ -373,7 +373,7 @@
         },
         {
           "t": "Holofoil",
-          "m": 0.11
+          "m": 0.12
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-053.webp",
@@ -393,7 +393,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.14
+          "m": 0.15
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-054.webp",
@@ -409,11 +409,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.13
+          "m": 0.12
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.18
+          "m": 0.2
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-055.webp",
@@ -433,7 +433,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.16
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-058.webp",
@@ -453,7 +453,7 @@
         },
         {
           "t": "Normal",
-          "m": 0.13
+          "m": 0.11
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-060.webp",
@@ -469,7 +469,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.42
+          "m": 0.44
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-069.webp",
@@ -485,11 +485,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.2
+          "m": 0.24
         },
         {
           "t": "Normal",
-          "m": 0.11
+          "m": 0.12
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-070.webp",
@@ -505,7 +505,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.19
+          "m": 0.23
         },
         {
           "t": "Normal",
@@ -525,7 +525,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.12
+          "m": 0.13
         },
         {
           "t": "Normal",
@@ -549,7 +549,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.24
+          "m": 0.23
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-075.webp",
@@ -565,11 +565,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.13
+          "m": 0.14
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.45
+          "m": 0.38
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-078.webp",
@@ -589,7 +589,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.12
+          "m": 0.14
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-079.webp",
@@ -605,11 +605,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.23
+          "m": 0.2
         },
         {
           "t": "Normal",
-          "m": 0.12
+          "m": 0.14
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-080.webp",
@@ -625,7 +625,7 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.1
+          "m": 0.09
         },
         {
           "t": "Reverse Holofoil",
@@ -645,7 +645,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 8.06
+          "m": 6.32
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-084.webp",
@@ -661,7 +661,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.12
+          "m": 0.13
         },
         {
           "t": "Normal",
@@ -681,11 +681,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.22
+          "m": 0.27
         },
         {
           "t": "Normal",
-          "m": 0.2
+          "m": 0.15
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-089.webp",
@@ -701,11 +701,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.17
+          "m": 0.24
         },
         {
           "t": "Normal",
-          "m": 0.16
+          "m": 0.12
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-090.webp",
@@ -721,7 +721,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.16
+          "m": 0.18
         },
         {
           "t": "Normal",
@@ -741,11 +741,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.1
+          "m": 0.12
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.18
+          "m": 0.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-092.webp",
@@ -761,11 +761,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.2
+          "m": 0.21
         },
         {
           "t": "Normal",
-          "m": 0.1
+          "m": 0.07
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-093.webp",
@@ -781,7 +781,7 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 1.29
+          "m": 0.85
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-094.webp",
@@ -797,7 +797,7 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.22
+          "m": 0.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-096.webp",
@@ -829,11 +829,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.12
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.21
+          "m": 0.26
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-100.webp",
@@ -849,11 +849,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.24
+          "m": 0.26
         },
         {
           "t": "Normal",
-          "m": 0.16
+          "m": 0.12
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-101.webp",
@@ -869,11 +869,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.1
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.16
+          "m": 0.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-102.webp",
@@ -889,11 +889,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.16
+          "m": 0.11
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.64
+          "m": 0.62
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-103.webp",
@@ -909,7 +909,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 1.84
+          "m": 1.6
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-104.webp",
@@ -925,7 +925,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 9.89
+          "m": 9.78
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-105.webp",
@@ -941,7 +941,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 16.64
+          "m": 15.87
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-106.webp",
@@ -957,7 +957,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 3.54
+          "m": 3.32
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-107.webp",
@@ -973,7 +973,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 2.72
+          "m": 2.45
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-109.webp",
@@ -989,7 +989,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 2.33
+          "m": 2.29
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-110.webp",
@@ -1005,7 +1005,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 20.43
+          "m": 19.88
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-111.webp",
@@ -1021,7 +1021,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 6.97
+          "m": 6.61
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-112.webp",
@@ -1037,7 +1037,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 26.63
+          "m": 25.33
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-114.webp",
@@ -1053,7 +1053,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 6.7
+          "m": 6.6
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-115.webp",
@@ -1069,7 +1069,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 31.02
+          "m": 29.61
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-117.webp",
@@ -1085,7 +1085,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 2.87
+          "m": 2.69
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-125.webp",
@@ -1101,7 +1101,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 5.18
+          "m": 4.91
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-126.webp",
@@ -1117,7 +1117,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 1.5
+          "m": 1.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-127.webp",
@@ -1133,7 +1133,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 1.88
+          "m": 1.7
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-128.webp",
@@ -1149,7 +1149,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 1.85
+          "m": 1.65
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-130.webp",
@@ -1165,7 +1165,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 5.39
+          "m": 5.21
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-131.webp",
@@ -1181,7 +1181,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 92.7
+          "m": 100.9
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-136.webp",
@@ -1197,7 +1197,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 25.36
+          "m": 22.85
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-139.webp",
@@ -1213,7 +1213,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 31.41
+          "m": 31.65
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-140.webp",
@@ -1229,7 +1229,7 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.22
+          "m": 0.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-097.webp",
@@ -1245,7 +1245,7 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 1.23
+          "m": 0.84
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-095.webp",
@@ -1301,7 +1301,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.13
+          "m": 0.15
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-002.webp",
@@ -1317,11 +1317,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.16
+          "m": 0.13
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.17
+          "m": 0.21
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-004.webp",
@@ -1337,11 +1337,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.26
+          "m": 0.21
         },
         {
           "t": "Holofoil",
-          "m": 0.15
+          "m": 0.1
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-005.webp",
@@ -1361,7 +1361,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.2
+          "m": 0.23
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-006.webp",
@@ -1377,11 +1377,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.1
+          "m": 0.11
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.16
+          "m": 0.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-007.webp",
@@ -1417,11 +1417,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.12
+          "m": 0.13
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.2
+          "m": 0.18
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-010.webp",
@@ -1437,11 +1437,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.12
+          "m": 0.13
         },
         {
           "t": "Normal",
-          "m": 0.11
+          "m": 0.09
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-015.webp",
@@ -1461,7 +1461,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.18
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-016.webp",
@@ -1477,7 +1477,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.16
         },
         {
           "t": "Normal",
@@ -1497,11 +1497,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.12
+          "m": 0.13
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.16
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-020.webp",
@@ -1517,11 +1517,11 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.09
+          "m": 0.12
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.24
+          "m": 0.25
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-021.webp",
@@ -1537,11 +1537,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.12
+          "m": 0.11
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.2
+          "m": 0.23
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-022.webp",
@@ -1557,11 +1557,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.1
+          "m": 0.11
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.16
+          "m": 0.17
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-024.webp",
@@ -1577,7 +1577,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.16
+          "m": 0.17
         },
         {
           "t": "Normal",
@@ -1601,7 +1601,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.17
+          "m": 0.16
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-027.webp",
@@ -1617,11 +1617,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.12
+          "m": 0.11
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.18
+          "m": 0.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-028.webp",
@@ -1637,11 +1637,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.14
         },
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.1
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-030.webp",
@@ -1657,7 +1657,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.12
+          "m": 0.17
         },
         {
           "t": "Normal",
@@ -1677,11 +1677,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.13
+          "m": 0.12
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.17
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-037.webp",
@@ -1697,11 +1697,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.1
+          "m": 0.09
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.17
+          "m": 0.18
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-038.webp",
@@ -1717,11 +1717,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.14
+          "m": 0.16
         },
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.08
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-039.webp",
@@ -1757,7 +1757,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 4.04
+          "m": 3.65
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-108.webp",
@@ -1773,7 +1773,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 4.65
+          "m": 3.39
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-118.webp",
@@ -1789,7 +1789,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 2.08
+          "m": 1.63
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-119.webp",
@@ -1805,7 +1805,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 1.88
+          "m": 1.89
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-120.webp",
@@ -1821,7 +1821,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 5.15
+          "m": 5.53
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-121.webp",
@@ -1837,7 +1837,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 24.45
+          "m": 23.77
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-135.webp",
@@ -1873,11 +1873,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.1
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.16
+          "m": 0.17
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-042.webp",
@@ -1897,7 +1897,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.17
+          "m": 0.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-043.webp",
@@ -1913,11 +1913,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.13
+          "m": 0.09
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.18
+          "m": 0.2
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-046.webp",
@@ -1937,7 +1937,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.2
+          "m": 0.21
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-048.webp",
@@ -1953,11 +1953,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.17
         },
         {
           "t": "Normal",
-          "m": 0.07
+          "m": 0.09
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-049.webp",
@@ -1973,11 +1973,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.12
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.12
+          "m": 0.14
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-050.webp",
@@ -1993,11 +1993,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.11
+          "m": 0.12
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.13
+          "m": 0.15
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-051.webp",
@@ -2013,11 +2013,11 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.13
+          "m": 0.15
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.16
+          "m": 0.2
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-052.webp",
@@ -2033,11 +2033,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.13
+          "m": 0.17
         },
         {
           "t": "Normal",
-          "m": 0.13
+          "m": 0.14
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-056.webp",
@@ -2053,11 +2053,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.28
+          "m": 0.27
         },
         {
           "t": "Holofoil",
-          "m": 0.11
+          "m": 0.15
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-057.webp",
@@ -2073,7 +2073,7 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.12
+          "m": 0.13
         },
         {
           "t": "Normal",
@@ -2097,7 +2097,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.18
+          "m": 0.21
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-061.webp",
@@ -2113,11 +2113,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.27
+          "m": 0.29
         },
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.08
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-062.webp",
@@ -2133,7 +2133,7 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.11
         },
         {
           "t": "Reverse Holofoil",
@@ -2153,11 +2153,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.18
+          "m": 0.19
         },
         {
           "t": "Normal",
-          "m": 0.14
+          "m": 0.12
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-064.webp",
@@ -2177,7 +2177,7 @@
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.17
+          "m": 0.21
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-065.webp",
@@ -2193,11 +2193,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.14
+          "m": 0.19
         },
         {
           "t": "Normal",
-          "m": 0.07
+          "m": 0.08
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-066.webp",
@@ -2213,7 +2213,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 0.43
+          "m": 0.37
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-067.webp",
@@ -2229,11 +2229,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.19
+          "m": 0.21
         },
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.08
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-068.webp",
@@ -2249,11 +2249,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.11
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.13
+          "m": 0.17
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-073.webp",
@@ -2269,11 +2269,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.07
+          "m": 0.09
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.13
+          "m": 0.18
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-074.webp",
@@ -2289,7 +2289,7 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.1
+          "m": 0.08
         },
         {
           "t": "Reverse Holofoil",
@@ -2309,11 +2309,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.06
+          "m": 0.05
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.14
+          "m": 0.15
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-077.webp",
@@ -2329,11 +2329,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.15
+          "m": 0.14
         },
         {
           "t": "Normal",
-          "m": 0.13
+          "m": 0.11
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-081.webp",
@@ -2349,11 +2349,11 @@
       "prints": [
         {
           "t": "Reverse Holofoil",
-          "m": 0.19
+          "m": 0.21
         },
         {
           "t": "Holofoil",
-          "m": 0.15
+          "m": 0.13
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-082.webp",
@@ -2373,7 +2373,7 @@
         },
         {
           "t": "Normal",
-          "m": 0.09
+          "m": 0.08
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-086.webp",
@@ -2389,11 +2389,11 @@
       "prints": [
         {
           "t": "Normal",
-          "m": 0.11
+          "m": 0.1
         },
         {
           "t": "Reverse Holofoil",
-          "m": 0.16
+          "m": 0.19
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-087.webp",
@@ -2409,7 +2409,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 5.94
+          "m": 4.92
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-088.webp",
@@ -2425,7 +2425,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 4.76
+          "m": 4.23
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-113.webp",
@@ -2441,7 +2441,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 4.85
+          "m": 4.54
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-116.webp",
@@ -2457,7 +2457,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 3.6
+          "m": 2.94
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-122.webp",
@@ -2473,7 +2473,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 2.81
+          "m": 2.44
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-123.webp",
@@ -2489,7 +2489,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 12.64
+          "m": 12.33
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-124.webp",
@@ -2505,7 +2505,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 1.51
+          "m": 1.6
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-129.webp",
@@ -2521,7 +2521,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 1.94
+          "m": 1.69
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-132.webp",
@@ -2537,7 +2537,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 2.76
+          "m": 2.47
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-133.webp",
@@ -2553,7 +2553,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 1.83
+          "m": 1.77
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-134.webp",
@@ -2569,7 +2569,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 27.01
+          "m": 25.4
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-137.webp",
@@ -2585,7 +2585,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 290.39
+          "m": 293.16
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-138.webp",
@@ -2601,7 +2601,7 @@
       "prints": [
         {
           "t": "Holofoil",
-          "m": 251.62
+          "m": 231.22
         }
       ],
       "sourceImage": "https://cdn.shopify.com/s/files/1/0988/0630/0999/files/delta-reign-141.webp",
